@@ -4,10 +4,11 @@ Public research identity page for Youfu Wang / 王有福, OCN Research, and Wang
 
 - ORCID: https://orcid.org/0009-0005-5998-6024
 - OSF: https://osf.io/cw3dt/
+- Latest paper: https://doi.org/10.5281/zenodo.21482075
 - Zenodo public release: https://doi.org/10.5281/zenodo.20698819
 - GitHub Pages site: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/
 
-Research topics include structural stability, runtime governance, failure-preserving replay, residual topology, photonic quantum-chip stability, tokamak control interfaces, and complex-system stability.
+Research topics include recursive closed internal structures beneath observable binary states, structural stability, runtime governance, failure-preserving replay, residual topology, photonic quantum-chip stability, tokamak control interfaces, and complex-system stability.
 
 ## Evidence Boundary
 
