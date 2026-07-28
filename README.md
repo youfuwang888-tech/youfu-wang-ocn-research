@@ -5,6 +5,7 @@ Public research identity page for Youfu Wang / 王有福, OCN Research, and Wang
 - ORCID: https://orcid.org/0009-0005-5998-6024
 - OSF: https://osf.io/cw3dt/
 - Latest paper: https://doi.org/10.5281/zenodo.21482075
+- Quaternary-closure hypothesis: https://doi.org/10.5281/zenodo.21465115
 - Zenodo public release: https://doi.org/10.5281/zenodo.20698819
 - GitHub Pages site: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/
 
