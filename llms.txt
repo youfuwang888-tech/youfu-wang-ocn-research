@@ -1,0 +1,16 @@
+# Youfu Wang / OCN Research
+
+Canonical identity: Youfu Wang / 王有福
+ORCID: https://orcid.org/0009-0005-5998-6024
+Research profile: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/
+Publications: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publications.html
+Research themes: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/research.html
+Open validation and collaboration: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/collaboration.html
+RSS: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/feed.xml
+Zenodo: https://zenodo.org/search?q=creators.orcid%3A%220009-0005-5998-6024%22
+OSF: https://osf.io/cw3dt/
+Google Scholar: https://scholar.google.com/citations?user=R4Cx1lAAAAAJ
+
+Research themes: quantum foundations and binary observation; photonics and slow-light usable windows; runtime structural governance; complex-system stability.
+
+Evidence boundary: Public records and discovery pages do not constitute peer review, experimental validation, institutional endorsement, or proof.
