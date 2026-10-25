@@ -1,1 +1,910 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Youfu Wang Research Updates</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/</link><description>Recent public research records by Youfu Wang / OCN Research.</description><language>en</language><item><title>From Necessary Conditions to Binary Observation: A Working Hypothesis for a 3–8–2 Hierarchical Generative Framework</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22239705.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22239705</guid><pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate><description>This paper proposes an exploratory &amp;ldquo;3&amp;ndash;8&amp;ndash;2&amp;rdquo; hierarchical generative framework designed to distinguish three different logical layers: a necessary-condition layer, a generative-process layer, and an observational-output layer. The current working hypothesis is: 3\ \text{necessary conditions} \rightarrow 8\ \text{candidate generative processes} \rightarrow 2\ \text{binary observational outcomes}. At the first layer, &amp;ldquo;Yuan&amp;rdquo; is provisionally defined as the minimal closed condition structure formed by three mutually irreducible and jointly necessary conditions. The number 3 therefore refers to the number of necessary conditions rather than to a number of physical states. At the second layer, the number 8 refers to eight candidate generative processes, process </description></item><item><title>Yuan (元), Primitive Distinction, and the Operational Descriptive Horizon: A Frozen Coarse-to-Fine Research Chain</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22232536.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22232536</guid><pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate><description>This structural preprint freezes the current lower boundary reached in a continuing coarse-to-fine research program on observation, distinguishability, probability, admissible state spaces, dynamics, and finite readout. The paper introduces the provisional Chinese term Yuan (元) solely as a low-commitment placeholder for the presently unresolved side of the first expressible distinction. Yuan is not proposed as a state, object, field, observer, intrinsic capacity, or physical entity, and its existence is not asserted. The first layer that can currently be formalized is a relational distinction: a test, comparison, interaction, or reference yields at least two operationally different responses. From this layer the paper freezes a chain through primitive cut, event algebra, observer/test fami</description></item><item><title>Observer-Relative Undifferentiated Probability Envelopes: Operational Equivalence, Ontological Underdetermination, and the First-Distinction Boundary</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22229582.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22229582</guid><pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate><description>This preprint introduces the concept of an observer-relative undifferentiated probability envelope(观察者相对的未分化概率包络) as a minimal operational description for situations in which a family of candidate underlying states cannot yet be distinguished by a specified observer, interface, or intervention set. Rather than treating &amp;ldquo;undifferentiated&amp;rdquo; as an absolute absence of structure, the framework defines it through an observer-induced equivalence relation on a candidate state space. When all candidate states belong to a single operational equivalence class, the observer has access only to a coarse probability-level description. The paper distinguishes two interpretations that must remain separate. Model A(模型A), adopted as the current operational description, treats the probability distr</description></item><item><title>Pre-Projection Admissible State Spaces for Relational Rotation: A Structural Note on Flow, Coarse-Graining, and Finite Observational Readout</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22228060.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22228060</guid><pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate><description>This structural preprint freezes an intermediate layer in a downward research decomposition. It separates an admissible pre-projection state structure, dynamical flow, observation/coarse-graining maps, and finite readouts. A planar relational-rotation benchmark shows that finite binary, eight-class, or twelve-sector readouts need not be identified with the dimension or ontology of the admissible state space. Common absolute orientation cancels from purely relational angle observables. The note explicitly does not claim a hidden-variable model, a new quantum state space, or a final ontology. It defines transition-relation reconstruction and discrete-versus-continuous symmetry as the next death gates.</description></item><item><title>Non-Abelian Information Loss under Homomorphic Binary Coarse-Graining of D4: Fourier Reconstruction, Symmetric Dynamics, and Coherent Reference Recovery</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22152007.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22152007</guid><pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate><description>This preprint develops an exact mathematical and quantum-information framework for information loss under homomorphic binary coarse-graining of the eight-element dihedral group D4. It derives the D4&amp;rarr;Z2&amp;times;Z2 abelianization, an exact finite-group Fourier reconstruction using three one-dimensional character moments plus one 2&amp;times;2 non-Abelian Fourier matrix, a two-rate symmetric D4 relaxation spectrum with the blind-prediction relation gamma_RS = gamma_R + gamma_S, an information budget for 8&amp;rarr;4&amp;rarr;3 coarse-graining and context-rich refinements, and a coherent-reference protocol in which the commutator residue -I is invisible as a target channel but observable as a relative phase. All results lie within standard probability theory, finite-group representation theory, and sta</description></item><item><title>From Microscopic Complementary Closure to Macroscopic Binary Coarse-Graining: A Quantum–Binary Multilevel Observation and Dual-Projection Hypothesis</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22142163.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22142163</guid><pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate><description>This work proposes a conceptual framework for connecting quantum closure structures, local observation, fine-grained binary records, and conventional binary coarse-graining. At the binary level, the framework introduces a structural representation distinct from ordinary ordered binary notation. The states 00, 11, and \{01,10\} are first grouped into three basic relational classes. Adding a positive/reverse distinction produces six states. Assigning one of four source labels, A, B, C, or D, to each of the two binary positions further generates 3\times2\times4\times4=96 labeled structural states. These 96 states are interpreted as a fine-grained record space rather than as 96 new conventional binary values. A separate quantum-level hypothesis is then introduced. In this candidate model, exte</description></item><item><title>A Falsifiable Closure Hypothesis Beneath Binary Quantum Readout: Two-Face Pairing, Eight Configurations, and Staged Experimental Protocols</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22120675.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22120675</guid><pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate><description>This conservative preprint formalizes a candidate directional closure structure beneath ordinary binary quantum readout. A handwritten sixteen-face table is transcribed into eight complementary closure pairs: at each of four ordered slots, the paired faces preserve the direction label and complement the binary value. The accompanying inversion audit shows that a single value-plus-direction label, such as 0_A, does not uniquely reconstruct a closure pair; a second independent readout or a frozen dynamical rule is required. The paper proves the standard same-state indistinguishability boundary: if distinct preparation histories yield the same density operator and all subsequent operations are path-independent completely positive trace-preserving maps and POVM measurements, no path-dependent </description></item><item><title>DCR Open Validation Request: Three-Channel Cross-Intervention Model Separation</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22037043.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.22037043</guid><pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate><description>An open preregistration and reproducibility package for testing whether a constrained three-reservoir exchange model predicts a held-out recovery intervention better than registered standard competing models. The package contains the preregistered three-channel protocol, data dictionary, statistical analysis plan, competing-model definitions, reproducibility code, automated tests, and file-integrity checks. This package does not claim new particles, sub-quantum constituents, or physics beyond standard quantum theory. Its purpose is to enable an independent, falsifiable test of whether a mechanism-sensitive third observation channel improves cross-intervention model separation relative to registered standard alternatives.</description></item><item><title>Exponential Quantum Advantage in Clock-Free Generation of Recursive Temporal Words</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21896475.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.21896475</guid><pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate><description>This record provides the complete reproducibility and audit archive for the manuscript &quot;Exponential Quantum Advantage in Clock-Free Generation of Recursive Temporal Words.&quot; It contains the manuscript, supplemental material, certified classical and quantum bounds, independent verification code, figures, numerical outputs, and integrity data. The result establishes a standard quantum-information separation for clock-free generation of recursive temporal words. It does not claim subquantum structure, QEM-8 confirmation, or experimental validation.</description></item><item><title>Exact Sign-Sector Probabilities for the Diagonal of a Haar-Random Rotation in SO(3)</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21802616.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.21802616</guid><pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate><description>Let R be a Haar-random rotation matrix in SO(3). We determine the exact probabilities of the eight sign sectors defined by the diagonal entries (R_{11},R_{22},R_{33}). Each sign sector containing an even number of negative diagonal entries has probability 5/24, while each sector containing an odd number of negative diagonal entries has probability 1/24. Consequently, the total probability of the four even-parity sectors is 5/6, and the total probability of the four odd-parity sectors is 1/6. Two independent analytic derivations are presented. The first uses the unit-quaternion representation of Haar-random rotations together with Hopf-coordinate integration. The second uses independent Gaussian squares and the associated Dirichlet distribution with parameters (1/2,1/2,1/2,1/2). High-precis</description></item><item><title>Recursive Binary Words as Dimension-Bounded Temporal Memory Witnesses</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21695591.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.21695591</guid><pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate><description>Reproducibility archive for exact deterministic memory complexity and certified equal-dimension classical-quantum temporal separations for finite Thue-Morse words under a stationary, clock-free generation model. The archive contains source code, exact and interval certificates, machine-readable outputs, figures, manuscript source, and the compiled manuscript. The results are trusted-dimension temporal-memory witnesses; they are not device-independent statements, do not establish hidden quantum states, and do not modify standard finite-dimensional quantum theory. Source code is released under the MIT License; manuscript materials are released under CC BY 4.0.</description></item><item><title>A Forward Hypothesis of Recursive Closed Internal Structure Beneath Observable Binary States</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21482075.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.21482075</guid><pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate><description>本文提出一种待验证的正向物理假设:外显二元状态0和1可能并非最终基本状态,而分别由方向相反的内部闭合关系01与10所生成。这里的01和10不被视为普通二进制字符串,而被视为具有顺序、方向、反演与闭合性质的不可约关系单元。 本文在暂时假定该假设成立的前提下,推导其可能产生的直接后果,包括同一外显状态下的内部差异、路径历史保留、内部反演、特征频率以及0/1镜像结构。进一步提出三种候选物理实现:方向&amp;mdash;相位模型、概率流模型和闭合能量模型,并给出相应的正向实验验证路线,包括多路径相位实验、低功率弱谱学、内部反演搜索以及多类观测的联合检验。 本文不声称该假设已经获得实验确认,也不将三种候选模型视为最终物理结论。其目的在于把源于手稿的结构直觉转换为一个可计算、可证伪、可独立复现并可交由实验团队验证的研究框架,同时公开邀请具备量子控制、谱学、弱测量和多态读出能力的研究团队开展独立验证。 英文描述 This work proposes a falsifiable forward hypothesis that observable binary states 0 and 1 may not be fundamental, but may instead arise from oppositely oriented internal closed relations denoted as 01 and 10. These internal relations are not treated as ordinary binary strings, but as irreducible relational units carrying order, direction, inversion, and closure. Assuming the hypothesis is correc</description></item><item><title>A Binary-Observable, Quaternary-Closure Hypothesis for Quantum Systems: Formal Model, Operational-Equivalence Boundary, Simulation Audit, and Open Experimental Tests</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21465115.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.21465115</guid><pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate><description>本文提出一种可证伪的&amp;ldquo;二元显现&amp;mdash;四元闭合&amp;rdquo;量子假设。该假设源于早期手稿中的结构直觉:量子系统在通常测量中表现为0或1,但其内部可能并非两个孤立状态,而是由绝对对立、同时出现并受反演关系约束的四元方向结构;外部二元读出可能是对该内部结构的粗粒化投影。 本文将这一假设形式化为四维候选状态空间: {|0,+&amp;gt;, |0,&amp;minus;&amp;gt;, |1,+&amp;gt;, |1,&amp;minus;&amp;gt;} 并定义二元粗粒化测量、反演配对与闭合关系。研究同时完成了多轮合成仿真、强竞争模型比较和操作等价性审查。 当前结果表明:只要该模型仍使用标准有限维量子态、量子通道和POVM测量,它就可以与具有相同状态、动力学和测量结构的普通四维量子模型操作等价。因此,本文不声称该假设已经超出标准量子力学,也不声称&amp;ldquo;0内部存在01、1内部存在10&amp;rdquo;已经获得实验验证。 本文的主要贡献包括: 恢复并形式化二元显现&amp;mdash;四元闭合假设; 明确其与Bell态、双轨编码和普通四维量子系统的关系; 给出操作不可区分性结果和否定边界; 公开已完成的仿真、失败结果和强对手审查; 提出维度见证、正反路径制备、顺序测量、闭合循环及跨平台验证协议; 邀请量子基础、量子控制、超导量子比特、光子量子信息、离子阱、自旋系统和开放量子系统研究者进行独立验证或证伪。 真正有待实验回答的问题是:不同名义二能级量子系统是否会在没有人为加入辅助编码的情况下,自然呈现同构的四元闭合结构;或者是否存在普通多能级泄漏、环境记忆、几何相位、控制误差及标准量子过程无法解释的稳定统计规律。 本记录定位为假设论文、形式模型、否定性结果和公开验证请求。否定结果与支持结果具有同等科学价值。 English summary This record presents a falsifiable b</description></item><item><title>Platform Integral as a Cross-System Mechanism for Window Formation in Hybrid Mode Systems</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039639.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.20039639</guid><pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate><description>Stable transmission or propagation windows are widely observed in hybrid mode systems, including polaritonic and photonic crystal structures. Conventional interpretations attribute these windows to local extrema, such as minimum residue or maximum group index. However, such pointwise descriptions do not fully explain variations in window width or consistency across systems. &amp;nbsp; In this work, we propose a platform integral framework for window formation. Instead of relying on local extrema, we introduce a global measure based on the structure of system-dependent landscapes: &amp;nbsp; P^* = \int \exp(-X/\langle X\rangle)\cdot \exp(-|\nabla X|/\langle|\nabla X|\rangle)\, d\Omega &amp;nbsp; where X represents a system-specific variable, such as residue Z_R in polariton systems or group velocity v_</description></item><item><title>Platform Integral Predicts Slow-Light Window Formation in Photonic Crystal Waveguides</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039355.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.20039355</guid><pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate><description>Slow-light phenomena in photonic crystal waveguides are commonly characterized by large group index values near band edges. However, the usable slow-light window is not solely determined by the peak group index. &amp;nbsp; In this work, we apply a platform integral framework to analyze slow-light window formation. Instead of relying on local extrema, we define a global measure based on the group velocity landscape: &amp;nbsp; P^*_{slow} = \int \exp(-v_g/\langle v_g\rangle)\cdot \exp(-|\partial_\lambda v_g|/\langle|\partial_\lambda v_g|\rangle)\, d\lambda &amp;nbsp; where v_g is the group velocity. Using published results on flatband slow-light modes in photonic crystal waveguides, we show that usable slow-light windows correspond to extended regions of low and slowly varying group velocity, rather tha</description></item><item><title>Platform Integral Governs Stable Window Formation in Hybrid Modes</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039115.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.20039115</guid><pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate><description>Stable transmission or propagation windows are widely observed in hybrid mode systems, including polaritonic and photonic crystal structures. Conventional explanations attribute these windows to local extrema, such as minimum residue or maximum group index. However, such pointwise descriptions fail to account for variations in window width. &amp;nbsp; In this work, we introduce a platform integral framework based on the residue landscape Z_R(\theta). Instead of focusing on local minima, we define a global measure of low-residue and low-gradient regions: &amp;nbsp; P^*=\int \exp(-Z_R/\langle Z_R\rangle)\cdot \exp(-|\partial_\theta Z_R|/\langle|\partial_\theta Z_R|\rangle)\, d\theta &amp;nbsp; Using Hopfield coefficient data from polariton systems, we show that P^* correlates with stable window width an</description></item><item><title>Protocol-Dependent Optimality in Near-Edge Systems: A Unified Explanation for Experimental Discrepancies in Slow-Light Regimes</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19981224.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.19981224</guid><pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate><description>This work presents a unified framework for understanding optimal operating points in near-edge physical systems, with a focus on slow-light photonic crystal waveguides. &amp;nbsp; By introducing a Difference Explanation Model (DEM), we show that system performance can be described as a balance between enhancement (gain) and degradation (loss), where the latter is strongly influenced by experimental protocols such as coupling configuration, polarization, and mode selection. &amp;nbsp; The framework explains why similar structures can exhibit significantly different optimal operating points, and provides a predictive expression for the shift of the optimal point under different protocols. The model is supported by existing experimental observations in slow-light coupling and nonlinear enhancement sy</description></item><item><title>Structure-Aware Spectral Reconstruction via Observation Window Compensation</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19878295.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.19878295</guid><pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate><description>This work presents a structure-aware reconstruction framework for recovering suppressed high-order components under observation window distortion. In many imaging and signal acquisition systems, the observation process acts as a non-uniform filter that attenuates specific structural components, leading to incomplete or biased reconstruction. We model the observation process as a weighted projection over structural components and introduce a window compensation approach to invert such distortions. By estimating the observation window and applying component-wise correction, the proposed method enables recovery of hidden structural information that is otherwise inaccessible from single observations. Numerical simulations demonstrate significant improvements in reconstruction accuracy, robustn</description></item><item><title>A Structural Generative Control Framework: Behavior Mode Generation under Structural Constraints</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19232849.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.19232849</guid><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><description>This work proposes a Structural Generative Control Framework (SGCF), a novel control paradigm in which control is formulated as behavior generation under structural constraints rather than direct action computation. Unlike traditional approaches such as PID, MPC, and reinforcement learning, which map system states directly to control actions, SGCF introduces an intermediate behavioral layer defined by a finite set of behavior modes. These modes emerge as stable solutions of an underlying structure composed of driving forces, relational constraints, and system limitations. The framework demonstrates clear advantages in critical scenarios including goal&amp;ndash;obstacle conflicts, instability, and rapid behavior switching. In these cases, SGCF maintains system feasibility through continuous tr</description></item><item><title>SCBG Guardian: A Structure-Constrained Runtime Safety Layer for Behavior Stabilization</title><link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19228185.html</link><guid isPermaLink="true">https://doi.org/10.5281/zenodo.19228185</guid><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><description>We introduce SCBG Guardian, a runtime safety layer for dynamical systems that stabilizes behavior through structure-constrained mode selection. &amp;nbsp; Unlike conventional safety mechanisms based on threshold-triggered rules or constraint enforcement, SCBG Guardian operates by monitoring system states and dynamically switching between behavioral modes such as approach, avoidance, and stabilization. &amp;nbsp; The key idea is that safety is not enforced through fixed constraints, but emerges from transitions between structurally valid behavior modes defined by role-semantic invariants. &amp;nbsp; We evaluate SCBG Guardian in a minimal simulation environment and compare it against: (1) a nominal controller and (2) a threshold-based safety mechanism. &amp;nbsp; The results show that: &amp;nbsp; the nominal co</description></item></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Youfu Wang / OCN Research public records</title>
+    <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publications.html</link>
+    <description>Zenodo source records, including preprints, versions and research materials. Not a journal.</description>
+    <language>en</language>
+    <item>
+      <title>Temporal Correlations Reshape Causal Resources in Qubit Hamiltonian Recognition: Exact Two-Query Strategy Comparison and a Uniform Critical Crossover</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-23421987.html</link>
+      <guid>10.5281/zenodo.23421987</guid>
+      <description> We investigate binary recognition of an unknown qubit Hamiltonian using two queries of its evolution, with unknown evolution angles that are either independently resampled or shared with tunable temporal correlation. 
+ For a symmetric pair of nonorthogonal qubit Hamiltonians, we compare parallel (PAR), sequential (SEQ), and general (GEN) quantum strategies. An exact symmetry reduction expresses the sequential optimization through a three-dimensional correlation elliptope. A general-strategy dual certificate establishes the equality between optimal general and sequential strategies within the studied model. 
+ We analyze the operational advantage generated by temporal correlations and establish distinct weak-correlation scaling regimes separated by a critical angle of 45 degrees. 
+ This revised and extended version (v1.2) adds a uniform double-scaling critical crossover theorem, including an explicit positive crossover function and consolidated mathematical proofs. The result characterizes a previously unresolved critical transition within the specified quantum Hamiltonian recognition model. 
+ The complete mathematical derivations are provided in the accompanying supplementary material (Sections S1–S19). 
+ This work is conducted within standard quantum information theory and does not claim physics beyond quantum mechanics. 
+ Version: 1.2 
+ Resource type: Publication — Preprint 
+ Author: Youfu Wang 
+ Affiliation: Independent Researcher, OCN Research </description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8 II: A Hadamard-Tetrahedral-Spinor Framework for Eight-Outcome Qubit Geometry, Coarse-Graining, and History-Sensitive Tests</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22866412.html</link>
+      <guid>10.5281/zenodo.22866412</guid>
+      <description> This preprint develops a mathematically explicit QEM-8 framework for a single qubit. It separates eight-state Bloch geometry, spinor sign double covers, and quaternionic operation history; derives the three-bit cube and parity-tetrahedral SIC structure; connects V4, H4 tomography, SU(2)/Q8 spinor lifts, and an eight-outcome cube POVM at the eta=1/sqrt(3) joint-measurability boundary; decomposes eight-outcome statistics into Walsh modes 1+3+3+1; and defines a rigorous 8-&gt;6-&gt;8' projection through a six-outcome Pauli representation. The residual Delta=p-p' lies in the four-dimensional high-order Walsh sector. Standard projective history effects (Gate 1A) are explicitly separated from a stronger, falsifiable history-residual hypothesis (Gate 1B). No experimental violation of standard quantum mechanics is claimed. </description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measurement Aliasing and Pauli-Correlator Identifiability for Local Unitary Rotations of a Maximally Entangled Qubit Pair</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22840470.html</link>
+      <guid>10.5281/zenodo.22840470</guid>
+      <description> We consider a restricted two-qubit model in which an unknown local unitary acts on one subsystem of a maximally entangled qubit pair and only local Pauli-product correlations are measured. We show that the three same-axis correlators XX, YY, and ZZ determine the magnitudes of the four components of the associated unit quaternion but, at generic interior points, leave an eightfold ambiguity in the underlying local rotation. We express this ambiguity as a sign fiber isomorphic to F2^3. The six cross-axis Pauli correlators separate into three rank-two sign-character subspaces. This structure yields a complete classification of the fifteen possible pairs of cross-axis correlators: the three reciprocal pairs XY/YX, XZ/ZX, and YZ/ZY remain rank deficient and generically leave a twofold ambiguity, whereas the remaining twelve pairs generically resolve the eightfold alias under explicit amplitude-nondegeneracy conditions. We then formulate a finite-shot adaptive reconstruction procedure that selects well-separated correlator groups and abstains near degeneracy, and we distinguish conditional reconstruction from held-out model auditing. The results concern identifiability within a restricted local-unitary model and do not constitute a new general tomography bound or evidence for additional physical states. </description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Qubit No-Go Bound for Independent Commuting Finite-Order Controls</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22718575.html</link>
+      <guid>10.5281/zenodo.22718575</guid>
+      <description> Two finite-order quantum controls may each be compatible with a qubit while their joint algebra is not. We study a cyclic control Q and an independent involution R with target algebra C_n x C_2. For even n &gt;= 4, no faithful projective qubit realization exists: in PU(2) ≃ SO(3), a nontrivial involution commuting with an order-n rotation collapses to Q^(n/2). An explicit qutrit construction realizes the full algebra, so the minimum projective dimension is three; n = 4 is the first obstructed even member and has an eight-ray regular orbit. The representation-theory obstruction itself lies in a mature mathematical area. The operational contribution developed here is a calibrated qubit-consistency test: for exact quarter-turn and half-turn targets, the commutator angle gives a tight state-independent fidelity bound and a tight optimized binary-contrast cap. We derive a sufficient angular-error version and extend the test to general CPTP gate deviations through diamond distance. The explicit qutrit construction reaches the algebraic maximum binary contrast of one using two control sequences and a common binary measurement. The result is a calibrated falsification test for a qubit control model, not a device-independent dimension witness, and it remains entirely within standard finite-dimensional quantum mechanics. </description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outcome-Frame Monodromy and Exact Limits of Marginal-Only Quantum Feedback</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22715996.html</link>
+      <guid>10.5281/zenodo.22715996</guid>
+      <description> A quantum instrument is not determined by its induced positive-operator-valued measure (POVM) and nonselective channel, yet the global control consequences of this residual branch structure remain incompletely characterized. We study the nondegenerate fiber of instruments with both marginals fixed. The subgroup of outcome permutations preserving the effect tuple acts as the deck group of the ordered outcome-frame covering, and closed loops define a conjugacy-class-valued monodromy representation. Nontrivial monodromy obstructs continuous global branch labeling based only on local process continuity. We construct an explicit cyclic family with a uniform m-outcome POVM and a fixed completely dephasing channel, derive robust overlap-based reconstruction and a conservative finite-sample guarantee, and certify entangled conditional Choi states although the nonselective channel is entanglement breaking. For a noisy cyclic family, we prove an exact minimax separation in conditional feedback: recovery rules restricted to the two marginals and the reported local outcome have optimal worst-sector entanglement fidelity 1/m, whereas an outcome-frame-aware controller attains 1-lambda+lambda/m. The exact minimax value of the missing outcome-frame information is therefore (1-lambda)(1-1/m). The results remain entirely within standard finite-dimensional quantum mechanics and are positioned as an instrument-level, permutation-valued specialization of established Kraus-frame/channel holonomy with a distinct global-labeling and feedback limitation. </description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temporal Correlations Reshape Causal Resources in Qubit Hamiltonian Recognition: Exact Two-Query General-Strategy Phase Diagram</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22685037.html</link>
+      <guid>10.5281/zenodo.22685037</guid>
+      <description> Hamiltonian recognition asks which candidate Hamiltonian generated an unknown quantum evolution when the evolution angle is not observed. This preprint solves a binary two-query qubit setting in which the two unknown angles range from independently resampled to fully shared. A task-specific symmetrization theorem reduces the full sequential optimization exactly to a three-dimensional correlation elliptope. A nine-dimensional legal subset of the most general tester dual is then shown to reduce, by semidefinite-program duality, to the same elliptope problem, yielding P_GEN(beta,eta) = P_SEQ(beta,eta) throughout the stated parameter domain. 
+ The resulting PAR-versus-GEN phase diagram contains an exact interior equality curve and an exact high-angle reentrant regime in which the globally optimal causal-processing advantage vanishes at both zero and full temporal correlation but is positive at every intermediate strength. Arbitrarily weak temporal correlation can activate a strict advantage. In this archival v1.1 release, the weak-correlation statement is conservatively formulated as explicit constructive lower bounds of orders eta^2 below 45 degrees, eta^(4/3) at 45 degrees, and eta above 45 degrees. No matching upper-bound derivation is claimed for exact asymptotic equivalence of those exponents. 
+ The record includes the main preprint, Supplemental Material, and a reproducibility archive containing proof notes, symbolic verification scripts, numerical cross-check data, revised manuscript source, figures, and integrity hashes. 
+ Status: public preprint; not independently peer-reviewed. </description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yuan–Eight–Binary Unified Physical Hypothesis: Master Experimental Validation Protocol v1\.0</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22250902.html</link>
+      <guid>10.5281/zenodo.22250902</guid>
+      <description> This protocol converts the strong-form Yuan–Eight–Binary Unified Physical Hypothesis into a staged, falsification-first experimental validation program. The theory baseline is Zenodo DOI 10.5281/zenodo.22248366. The protocol separates four levels—Yuan pre-generative conditions, eight quantum/generative processes, hidden binary relational structure, and ordinary 0/1 observation—and defines E01–E11 experimental cards with explicit prerequisites, observables, PASS/FAIL rules, confound controls, and maximum permissible conclusions. It also introduces an S0–S6 evidence ladder so that a positive result at a lower layer cannot be used as proof of a higher layer. The protocol is platform-portable and is intended to be instantiated through device-specific preregistration annexes for quantum photonic, superconducting, trapped-ion/atomic, or other controllable quantum systems. The central unresolved quantitative task is the platform-specific bridge F(Ω,B,C)→G8, which must be frozen before the E10 bridge experiment is run. </description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From a Three-Condition Pre-Generative Structure to Eight Quantum Processes, Hidden Binary Structure, and Binary Observation: The Yuan-Eight-Binary Unified Physical Hypothesis</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22248366.html</link>
+      <guid>10.5281/zenodo.22248366</guid>
+      <description> This preprint proposes a strong-form, falsifiable four-layer physical hypothesis in which ordinary binary outcomes are coarse-grained projections of deeper physical organization. The Yuan pre-generative layer consists of three jointly necessary conditions: a carrier/possibility domain, boundary and constraint conditions, and internal coupling/organizational relations. Their joint realization is hypothesized to generate eight physically distinguishable quantum process sectors. In the strong form, these sectors are organized as four relational directions and two orientations with a D4-type composition structure. The generative layer projects into a hidden-binary structural layer containing ordered complementary pairs 01/10, A/B/C/D source or directional labels, an independent orientation attribute, and a 3-to-6-to-96 fine-grained relational record space, before conventional measurement coarse-grains the structure to 0/1. 
+ The hypothesis is deliberately frozen before experimental validation. It predicts recoverable hidden information beneath identical binary outcomes, a minimal eight-process description, D4 noncommutative composition fingerprints, resolvable fine-grained relational records, necessity of the three Yuan conditions, and cross-platform consistency. The next stage is a preregistered experimental program designed to support, modify, or falsify each layer independently. </description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Necessary Conditions to Binary Observation: A Working Hypothesis for a 3–8–2 Hierarchical Generative Framework</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22239705.html</link>
+      <guid>10.5281/zenodo.22239705</guid>
+      <description> This paper proposes an exploratory “3–8–2” hierarchical generative framework designed to distinguish three different logical layers: a necessary-condition layer, a generative-process layer, and an observational-output layer. 
+ The current working hypothesis is: 
+ 3\ \text{necessary conditions} \rightarrow 8\ \text{candidate generative processes} \rightarrow 2\ \text{binary observational outcomes}. 
+ At the first layer, “Yuan” is provisionally defined as the minimal closed condition structure formed by three mutually irreducible and jointly necessary conditions. The number 3 therefore refers to the number of necessary conditions rather than to a number of physical states. 
+ At the second layer, the number 8 refers to eight candidate generative processes, process configurations, or generative pathways that may emerge once the necessary conditions are satisfied. Their precise mathematical origin and physical interpretation remain open. In particular, this framework does not assume that these eight processes correspond to an established eight-state quantum ontology. 
+ At the third layer, the number 2 refers to binary observational outcomes, represented as 0/1, obtained through coarse-graining, projection, or limited observational resolution. These binary outputs are therefore treated as observational results rather than as evidence that the underlying ontology is fundamentally binary. 
+ The aim of this work is not to claim a new physical ontology, but to formulate a testable hierarchical research framework that clearly separates the conditions required for a process to exist, the mechanisms through which structures or processes are generated, and the outcomes accessible to observation. 
+ The central open problem is to identify the three irreducible necessary conditions that constitute “Yuan” and to determine whether the minimum number of such conditions is genuinely three rather than two, four, or more. 
+ At its present stage, the proposed framework should be regarded as a working hypothesis and structural research program. Its possible connections to quantum processes, hidden structures, and physical realizations remain open and unproven. </description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yuan (元), Primitive Distinction, and the Operational Descriptive Horizon: A Frozen Coarse-to-Fine Research Chain</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22232536.html</link>
+      <guid>10.5281/zenodo.22232536</guid>
+      <description> This structural preprint freezes the current lower boundary reached in a continuing coarse-to-fine research program on observation, distinguishability, probability, admissible state spaces, dynamics, and finite readout. The paper introduces the provisional Chinese term Yuan (元) solely as a low-commitment placeholder for the presently unresolved side of the first expressible distinction. Yuan is not proposed as a state, object, field, observer, intrinsic capacity, or physical entity, and its existence is not asserted. The first layer that can currently be formalized is a relational distinction: a test, comparison, interaction, or reference yields at least two operationally different responses. From this layer the paper freezes a chain through primitive cut, event algebra, observer/test family, probability envelope, observer-resolution refinement, latent-state disclosure, relational/admissible state structure, dynamics/flow, projection/coarse-graining, and finite readout. The operational descriptive horizon is placed between Yuan and the first mathematically expressible relational distinction. Below that horizon, assigning a property to Yuan already reintroduces a distinction; above it, distinctions can be represented and tested. The horizon is therefore a limit of present descriptive resolution, not a claim that reality ends there. Quantum coherent superposition remains PARKED / UNMAPPED, and an observer-independent unique-actual-state hypothesis remains OPEN / UNPROVEN. The next phase is upward validation: refine observation or intervention and test whether a coarse equivalence class can be split into substructures with independently measurable responses. 
+ 中文描述 
+ 本文固化当前“由粗到细、再向更深层约化”研究所达到的暂时描述边界。论文暂时采用中文技术占位词 “元”,只用于标记“第一次可表达区分之前,目前仍无法被现有语言和数学无循环刻画的未知位置”。“元”不被预设为状态、对象、场、观察者、能力、物质、信息或任何已知物理实体,本文也不宣称“元”一定存在。当前第一个可以被数学化的层级是 关系性区分:某种测试、比较、相互作用或参照产生至少两个不同的操作响应。由此向上依次形成原始切分、事件代数、观察/测试族、概率包络、观察分辨率细化、隐态显化、关系/允许态结构、动力学/流、投影/粗粒化及有限读出。本文把 操作描述视界 放在“元”与“第一次可表达关系性区分”之间:视界以下,一旦试图给“元”赋予性质,就已经重新引入区分;视界以上,区分、事件、概率、状态和实验差异才开始能够被表示和检验。因此,该视界是当前描述分辨率的边界,不是存在的边界。量子相干叠加继续保持“暂缓 / 未映射”,观察者无关的唯一实际态假说继续保持“开放 / 未证实”。下一阶段转向向上验证:增加新的观察维度或干预,检验粗粒等价类能否裂分出具有独立可测响应的细结构。 </description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observer-Relative Undifferentiated Probability Envelopes: Operational Equivalence, Ontological Underdetermination, and the First-Distinction Boundary</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22229582.html</link>
+      <guid>10.5281/zenodo.22229582</guid>
+      <description> This preprint introduces the concept of an observer-relative undifferentiated probability envelope(观察者相对的未分化概率包络) as a minimal operational description for situations in which a family of candidate underlying states cannot yet be distinguished by a specified observer, interface, or intervention set. Rather than treating “undifferentiated” as an absolute absence of structure, the framework defines it through an observer-induced equivalence relation on a candidate state space. When all candidate states belong to a single operational equivalence class, the observer has access only to a coarse probability-level description. 
+ The paper distinguishes two interpretations that must remain separate. Model A(模型A), adopted as the current operational description, treats the probability distribution itself as the minimal empirically justified state description. Model B(模型B) is retained as an open ontological hypothesis in which each individual realization may already possess a unique underlying actual state, while the observer has only incomplete knowledge of that state. Model B is neither accepted nor rejected; it is reserved for future tests that could produce predictions distinguishable from Model A. 
+ The analysis formalizes the first-distinction boundary using equivalence classes and partition refinement, shows that a minimal nontrivial refinement naturally produces two distinguishable classes without implying physical binary ontology, and emphasizes the distinction between operational indistinguishability and ontological identity. Quantum coherent superposition is deliberately not assumed as the deepest interpretation of the undifferentiated layer. Instead, quantum-state descriptions are treated provisionally as higher-level effective operational representations whose deeper interpretation remains open. 
+ This work freezes a temporary lower boundary in a broader research chain connecting observer-relative distinguishability, admissible state spaces, relational structure, dynamics, projection, coarse-graining, and finite observational readout. The next stage is to determine whether a deeper ontological completion can generate experimentally distinguishable consequences, or whether the probability-envelope description is operationally complete. </description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Projection Admissible State Spaces for Relational Rotation: A Structural Note on Flow, Coarse-Graining, and Finite Observational Readout</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22228060.html</link>
+      <guid>10.5281/zenodo.22228060</guid>
+      <description> This structural preprint freezes an intermediate layer in a downward research decomposition. It separates an admissible pre-projection state structure, dynamical flow, observation/coarse-graining maps, and finite readouts. A planar relational-rotation benchmark shows that finite binary, eight-class, or twelve-sector readouts need not be identified with the dimension or ontology of the admissible state space. Common absolute orientation cancels from purely relational angle observables. The note explicitly does not claim a hidden-variable model, a new quantum state space, or a final ontology. It defines transition-relation reconstruction and discrete-versus-continuous symmetry as the next death gates. </description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Abelian Information Loss under Homomorphic Binary Coarse-Graining of D4: Fourier Reconstruction, Symmetric Dynamics, and Coherent Reference Recovery</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22152007.html</link>
+      <guid>10.5281/zenodo.22152007</guid>
+      <description> This preprint develops an exact mathematical and quantum-information framework for information loss under homomorphic binary coarse-graining of the eight-element dihedral group D4. It derives the D4→Z2×Z2 abelianization, an exact finite-group Fourier reconstruction using three one-dimensional character moments plus one 2×2 non-Abelian Fourier matrix, a two-rate symmetric D4 relaxation spectrum with the blind-prediction relation gamma_RS = gamma_R + gamma_S, an information budget for 8→4→3 coarse-graining and context-rich refinements, and a coherent-reference protocol in which the commutator residue -I is invisible as a target channel but observable as a relative phase. All results lie within standard probability theory, finite-group representation theory, and standard quantum mechanics; no beyond-standard quantum claim is made. </description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Microscopic Complementary Closure to Macroscopic Binary Coarse-Graining: A Quantum–Binary Multilevel Observation and Dual-Projection Hypothesis</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22142163.html</link>
+      <guid>10.5281/zenodo.22142163</guid>
+      <description> This work proposes a conceptual framework for connecting quantum closure structures, local observation, fine-grained binary records, and conventional binary coarse-graining. 
+ At the binary level, the framework introduces a structural representation distinct from ordinary ordered binary notation. The states 00, 11, and \{01,10\} are first grouped into three basic relational classes. Adding a positive/reverse distinction produces six states. Assigning one of four source labels, A, B, C, or D, to each of the two binary positions further generates 3\times2\times4\times4=96 labeled structural states. These 96 states are interpreted as a fine-grained record space rather than as 96 new conventional binary values. 
+ A separate quantum-level hypothesis is then introduced. In this candidate model, externally observed quantum values 0 and 1 are associated with complementary internal closure structures represented as 01 and 10. The labels A,B,C,D refer to four correlated positions or orientations within a single closed structure rather than to independent binary labels. Local observation of such a structure may yield source-labeled outcomes such as 0^A or 1^B. Repeated local observations generate source-labeled binary sequences, while conventional binary representation is obtained after discarding source, orientation, and positive/reverse information. 
+ The framework distinguishes microscopic structural complementarity from macroscopic statistical balance. A closed microscopic structure may be exactly complementary, while short binary observation sequences may still contain arbitrary local concentrations such as 0000 or 1111. Under symmetric and unbiased sampling conditions, long-run binary statistics may approach balance without requiring local balance at every observation step. 
+ The work also introduces a dual-projection viewpoint. The same underlying binary object can be represented through different observational rules. Conventional ordered observation yields the familiar four states 00,01,10,11, whereas relational observation yields the three classes 00, 11, and \{01,10\}, which may then be refined into the 3\rightarrow6\rightarrow96 hierarchy. These descriptions are treated as different coarse-grainings or projections of the same underlying object rather than as mutually exclusive binary systems. 
+ The 3\rightarrow6\rightarrow96 construction is presented here as a formally defined representational structure. By contrast, the proposed quantum 01/10 internal closure, the physical meaning of the A,B,C,D orientations, and any claimed quantum-to-binary correspondence remain hypotheses requiring mathematical formalization and experimental testing. 
+ Future work will focus on formal mathematical modeling, exhaustive state analysis, numerical simulation, comparison with standard quantum-mechanical predictions, falsifiable experimental protocols, and possible applications in quantum readout, feedback control, error diagnosis, and information processing. 
+ Version v0.1 is intended to establish a time-stamped record of the original hypothesis, definitions, conceptual boundaries, and research roadmap. It does not claim experimental confirmation of the proposed internal quantum structure. </description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Falsifiable Closure Hypothesis Beneath Binary Quantum Readout: Two-Face Pairing, Eight Configurations, and Staged Experimental Protocols</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22120675.html</link>
+      <guid>10.5281/zenodo.22120675</guid>
+      <description> This conservative preprint formalizes a candidate directional closure structure beneath ordinary binary quantum readout. A handwritten sixteen-face table is transcribed into eight complementary closure pairs: at each of four ordered slots, the paired faces preserve the direction label and complement the binary value. The accompanying inversion audit shows that a single value-plus-direction label, such as 0_A, does not uniquely reconstruct a closure pair; a second independent readout or a frozen dynamical rule is required. 
+ The paper proves the standard same-state indistinguishability boundary: if distinct preparation histories yield the same density operator and all subsequent operations are path-independent completely positive trace-preserving maps and POVM measurements, no path-dependent signal can occur. It then defines three staged experimental protocols and their conventional adversaries, including process memory, leakage, state-preparation-and-measurement error, and drift. 
+ This record is an openly testable hypothesis and experimental protocol. It does not claim observation of sub-quantum constituents, discovery of new quantum states, or a replacement for standard quantum mechanics. ``` </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DCR Open Validation Request: Three-Channel Cross-Intervention Model Separation</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22037043.html</link>
+      <guid>10.5281/zenodo.22037043</guid>
+      <description> An open preregistration and reproducibility package for testing whether a constrained three-reservoir exchange model predicts a held-out recovery intervention better than registered standard competing models. 
+ The package contains the preregistered three-channel protocol, data dictionary, statistical analysis plan, competing-model definitions, reproducibility code, automated tests, and file-integrity checks. 
+ This package does not claim new particles, sub-quantum constituents, or physics beyond standard quantum theory. Its purpose is to enable an independent, falsifiable test of whether a mechanism-sensitive third observation channel improves cross-intervention model separation relative to registered standard alternatives. </description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Qubit No-Go Bound for Independent Commuting Finite-Order Controls</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21975018.html</link>
+      <guid>10.5281/zenodo.21975018</guid>
+      <description> Two finite-order controls can each be compatible with a qubit while their independent commuting joint algebra is not. For even n at least 4, C_n x C_2 has no faithful projective qubit realization but admits a qutrit realization. We derive a calibrated qubit-consistency tradeoff and a two-sequence binary test with maximal qutrit contrast. This is not a device-independent dimension witness and does not claim substructure below a qubit. </description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixed-Marginal Quantum Instruments and Hidden Feedback Frames</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21974828.html</link>
+      <guid>10.5281/zenodo.21974828</guid>
+      <description> We construct equiprobable qubit instruments whose outcome probabilities and non-selective channel remain fixed while a hidden conditional feedback frame changes. The archive contains exact tight-frame and recovery results, a self-calibrated character-spectrum readout, verification code, and an unmitigated Rigetti endpoint benchmark. The benchmark is explicitly not treated as path-level monodromy or topology evidence. </description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Resource-Loss Spectroscopy of Hidden Quantum Symmetries: A Rational Resolution Limit and a Minimal Operational Remedy</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21974356.html</link>
+      <guid>10.5281/zenodo.21974356</guid>
+      <description> We study reversible finite-group quantum instruments whose classical outcome record is coarse-grained over subgroups. The interactive-instrument resource loss is shown to equal a subgroup average of character intensity and to admit a direct Bell-return estimator. The resulting spectroscopy inherits a rational/cyclic-subgroup resolution limit. For a fixed labeled control oracle, two inequivalent three-dimensional representations of A5 are indistinguishable by every subgroup-resource measurement; they are exchanged by an outer automorphism, so the label-free gauge boundary is stated explicitly. A single class-sensitive five-cycle probe resolves the labeled ambiguity. A general rank-completion criterion identifies the minimum targeted probes needed to remove subgroup-incidence blind directions. The archive includes the manuscript, Supplemental Material, source files, code, frozen outputs, and finite-shot simulations. No hardware experiment is claimed. </description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exponential Quantum Advantage in Clock-Free Generation of Recursive Temporal Words</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21896475.html</link>
+      <guid>10.5281/zenodo.21896475</guid>
+      <description> This record provides the complete reproducibility and audit archive for the manuscript "Exponential Quantum Advantage in Clock-Free Generation of Recursive Temporal Words." It contains the manuscript, supplemental material, certified classical and quantum bounds, independent verification code, figures, numerical outputs, and integrity data. The result establishes a standard quantum-information separation for clock-free generation of recursive temporal words. It does not claim subquantum structure, QEM-8 confirmation, or experimental validation. </description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exact Sign-Sector Probabilities for the Diagonal of a Haar-Random Rotation in SO(3)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21802616.html</link>
+      <guid>10.5281/zenodo.21802616</guid>
+      <description> Let R be a Haar-random rotation matrix in SO(3). We determine the exact probabilities of the eight sign sectors defined by the diagonal entries (R_{11},R_{22},R_{33}). 
+ Each sign sector containing an even number of negative diagonal entries has probability 5/24, while each sector containing an odd number of negative diagonal entries has probability 1/24. Consequently, the total probability of the four even-parity sectors is 5/6, and the total probability of the four odd-parity sectors is 1/6. 
+ Two independent analytic derivations are presented. The first uses the unit-quaternion representation of Haar-random rotations together with Hopf-coordinate integration. The second uses independent Gaussian squares and the associated Dirichlet distribution with parameters (1/2,1/2,1/2,1/2). High-precision numerical integration and Monte Carlo simulation are included as independent checks of the exact formulas. 
+ The structural description of rotation-matrix diagonals, the quaternion representation of SO(3), and the relevant Haar and Dirichlet distributions are classical. The contribution of this work is the explicit evaluation of the eight diagonal sign-sector probabilities. We did not locate these explicit values in the sources searched. 
+ Author: Wang Youfu Affiliation: Independent Researcher, Anyang, China Corresponding email:  wangyoufu369@gmail.com  </description>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recursive Binary Words as Dimension-Bounded Temporal Memory Witnesses</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21695591.html</link>
+      <guid>10.5281/zenodo.21695591</guid>
+      <description> Reproducibility archive for exact deterministic memory complexity and certified equal-dimension classical-quantum temporal separations for finite Thue-Morse words under a stationary, clock-free generation model. The archive contains source code, exact and interval certificates, machine-readable outputs, figures, manuscript source, and the compiled manuscript. The results are trusted-dimension temporal-memory witnesses; they are not device-independent statements, do not establish hidden quantum states, and do not modify standard finite-dimensional quantum theory. Source code is released under the MIT License; manuscript materials are released under CC BY 4.0. </description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Forward Hypothesis of Recursive Closed Internal Structure Beneath Observable Binary States</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21482075.html</link>
+      <guid>10.5281/zenodo.21482075</guid>
+      <description> 本文提出一种待验证的正向物理假设:外显二元状态0和1可能并非最终基本状态,而分别由方向相反的内部闭合关系01与10所生成。这里的01和10不被视为普通二进制字符串,而被视为具有顺序、方向、反演与闭合性质的不可约关系单元。 
+ 本文在暂时假定该假设成立的前提下,推导其可能产生的直接后果,包括同一外显状态下的内部差异、路径历史保留、内部反演、特征频率以及0/1镜像结构。进一步提出三种候选物理实现:方向—相位模型、概率流模型和闭合能量模型,并给出相应的正向实验验证路线,包括多路径相位实验、低功率弱谱学、内部反演搜索以及多类观测的联合检验。 
+ 本文不声称该假设已经获得实验确认,也不将三种候选模型视为最终物理结论。其目的在于把源于手稿的结构直觉转换为一个可计算、可证伪、可独立复现并可交由实验团队验证的研究框架,同时公开邀请具备量子控制、谱学、弱测量和多态读出能力的研究团队开展独立验证。 
+ 英文描述 
+ This work proposes a falsifiable forward hypothesis that observable binary states 0 and 1 may not be fundamental, but may instead arise from oppositely oriented internal closed relations denoted as 01 and 10. These internal relations are not treated as ordinary binary strings, but as irreducible relational units carrying order, direction, inversion, and closure. 
+ Assuming the hypothesis is correct, the paper derives several possible consequences, including internal distinctions beneath the same observable state, path-history retention, internal inversion, characteristic frequencies, and mirrored structures between observable 0 and 1. Three candidate physical realizations are introduced: a directional-phase model, a probability-flow model, and a closure-energy model. Corresponding positive-direction experimental routes are proposed, including multipath phase tests, low-power spectroscopy, internal inversion searches, and joint analysis across multiple observables. 
+ No experimental confirmation is claimed, and the three models are not presented as final physical explanations. The purpose of this work is to convert a structural intuition originating from the author’s manuscript into a calculable, falsifiable, independently testable research framework, and to invite experimental teams with capabilities in quantum control, spectroscopy, weak measurement, and multilevel readout to conduct independent validation. </description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Binary-Observable, Quaternary-Closure Hypothesis for Quantum Systems: Formal Model, Operational-Equivalence Boundary, Simulation Audit, and Open Experimental Tests</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21465115.html</link>
+      <guid>10.5281/zenodo.21465115</guid>
+      <description> 本文提出一种可证伪的“二元显现—四元闭合”量子假设。该假设源于早期手稿中的结构直觉:量子系统在通常测量中表现为0或1,但其内部可能并非两个孤立状态,而是由绝对对立、同时出现并受反演关系约束的四元方向结构;外部二元读出可能是对该内部结构的粗粒化投影。 
+ 本文将这一假设形式化为四维候选状态空间: 
+  {|0,+&gt;, |0,−&gt;, |1,+&gt;, |1,−&gt;}  
+ 并定义二元粗粒化测量、反演配对与闭合关系。研究同时完成了多轮合成仿真、强竞争模型比较和操作等价性审查。 
+ 当前结果表明:只要该模型仍使用标准有限维量子态、量子通道和POVM测量,它就可以与具有相同状态、动力学和测量结构的普通四维量子模型操作等价。因此,本文不声称该假设已经超出标准量子力学,也不声称“0内部存在01、1内部存在10”已经获得实验验证。 
+ 本文的主要贡献包括: 
+ 
+ 恢复并形式化二元显现—四元闭合假设; 
+ 明确其与Bell态、双轨编码和普通四维量子系统的关系; 
+ 给出操作不可区分性结果和否定边界; 
+ 公开已完成的仿真、失败结果和强对手审查; 
+ 提出维度见证、正反路径制备、顺序测量、闭合循环及跨平台验证协议; 
+ 邀请量子基础、量子控制、超导量子比特、光子量子信息、离子阱、自旋系统和开放量子系统研究者进行独立验证或证伪。 
+ 
+ 真正有待实验回答的问题是:不同名义二能级量子系统是否会在没有人为加入辅助编码的情况下,自然呈现同构的四元闭合结构;或者是否存在普通多能级泄漏、环境记忆、几何相位、控制误差及标准量子过程无法解释的稳定统计规律。 
+ 本记录定位为假设论文、形式模型、否定性结果和公开验证请求。否定结果与支持结果具有同等科学价值。 
+  English summary  
+ This record presents a falsifiable binary-observable, quaternary-closure hypothesis for quantum systems. The hypothesis proposes that systems producing ordinary binary outcomes, 0 and 1, may contain an internal four-position directional structure constrained by opposition and inversion, while standard measurements coarse-grain that structure into two visible outcomes. 
+ The candidate state space is formalized as: 
+  {|0,+&gt;, |0,−&gt;, |1,+&gt;, |1,−&gt;}  
+ The work includes synthetic simulations, strong competing-model comparisons, an operational-equivalence audit, falsification criteria, and proposed experimental protocols involving dimension witnesses, opposite preparation paths, sequential measurements, closure cycles, and cross-platform replication. 
+ The current mathematical form remains operationally equivalent to an ordinary symmetric four-dimensional quantum model when the same states, dynamics, and measurements are used. Therefore, no experimental confirmation and no claim beyond standard quantum mechanics are made. 
+ The open empirical question is whether nominal two-level systems naturally exhibit the same hidden closure symmetry across distinct physical platforms, or whether reproducible statistics arise that cannot be explained by multilevel leakage, environmental memory, geometric phase, control errors, or standard quantum-process descriptions. 
+ This record is released as a hypothesis paper, formal model, negative and boundary analysis, and an open request for independent experimental validation or falsification. </description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Structural Constraint Framework for Decoherence, Slow-Light Usability, Fusion Stability, and AI Runtime Governance: A Set of Testable Hypotheses</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21024819.html</link>
+      <guid>10.5281/zenodo.21024819</guid>
+      <description> This public validation white paper proposes a structural constraint framework connecting four testable research windows: decoherence redistribution, slow-light usable windows, fusion stability margins, and AI runtime governance. The document does not claim that a complete new physical theory has been experimentally proven. Instead, it defines falsifiable hypotheses, observable variables, baseline comparisons, failure conditions, and collaboration requests. The release is intended to create a public timestamp, invite external critique, and support independent replay, simulation, or laboratory validation. </description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DCR-MRRS Hidden Risk Detector: A Three-Reservoir and Multiresolution Residual Framework for Early Risk Detection in AI Runtime Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-21016153.html</link>
+      <guid>10.5281/zenodo.21016153</guid>
+      <description> This preprint proposes the DCR-MRRS Hidden Risk Detector, a strong engineering-hypothesis module for AI runtime safety. The method combines the DCR-8/6 three-reservoir redistribution model with the MRRS/RLM-2^n multiresolution residual spectrum. It decomposes runtime risk into three reservoirs: A_visible for explicit behavioral or safety-rule risk, H_hidden for latent drift and accumulated hidden residuals, and R_env for environmental or historical-record risk. Unlike conventional safety layers that mainly detect collisions, boundary violations, or triggered rules, DCR-MRRS aims to detect cases where the system remains visibly normal while internal trends continue to deteriorate. The paper describes the input schema, reservoir scoring formulas, the DCR_total aggregate score, the DCR_phase_score decision score, the Hidden Trend Gate, and four minimal simulated test groups. The paper-based simulation indicates that the method remains normal in the baseline group, identifies explicit danger via A_visible, detects hidden drift through H_hidden even when the conventional safety layer does not trigger, and separates environmental disturbance through R_env. This work does not claim real-system validation. It is presented as a validation-ready method proposal for the Replay, Shadow, and Advisory layers of AI18-DIOS. </description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph-SERO: A Temporal Graph Dynamics Replay Protocol for Event-Relative Tokamak Disruption Early-Warning Validation</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20743200.html</link>
+      <guid>10.5281/zenodo.20743200</guid>
+      <description> This technical report presents Graph-SERO, a proposed temporal graph dynamics framework and replay protocol for event-relative tokamak disruption early-warning validation. The framework represents diagnostic channels as an evolving graph A(t), defines structural drift Delta A(t) and structural acceleration S(t), and specifies a claim-bounded validation workflow based on manifest locking, event-time provenance, baseline comparison, false-alarm retention, and held-out replay. 
+ This release is a preregistration-style protocol and paper draft. It does not report completed EAST, JET, MAST-U, or DIII-D validation results, and it should not be cited as evidence that Graph-SERO outperforms existing disruption predictors. The purpose of the release is to enable transparent review, data-access discussion, and external collaboration on a reproducible replay package. </description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structural Stability, Failure-Preserving Replay, and Runtime Governance: Public Research Notes v1</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20698819.html</link>
+      <guid>10.5281/zenodo.20698819</guid>
+      <description> This public research note package collects non-confidential working materials on structural stability modeling, failure-preserving replay protocols, residual-topology risk readouts, and runtime governance audit concepts. The materials are intended to support external technical feedback, baseline correction, data-route discovery, and possible collaboration. They do not claim experimental validation, institutional endorsement, or proof of a new physical theory. </description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Structure of Fate: An AI-Human Co-Discovery of Reality, Choice, and Civilization</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20610362.html</link>
+      <guid>10.5281/zenodo.20610362</guid>
+      <description> This public abridged English edition presents the core arc of a longer Chinese manuscript on fate, structure, human-AI collaboration, complex-system governance, and future civilization. 
+ The work reframes fate not as superstition or fixed destiny, but as the felt pressure of structure: the way freedom encounters visible and invisible conditions. It explores how human intuition and AI-supported recursive reflection can jointly develop a broader language of structure, constraint, path opening, runtime governance, and shared responsibility. 
+ This edition is not a completed scientific theory or validation claim. It is a philosophical nonfiction essay and public conceptual artifact intended for open reading, international feedback, and future research dialogue. </description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open External Validation Pack for Structural Stability and Recovery Models</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20606790.html</link>
+      <guid>10.5281/zenodo.20606790</guid>
+      <description> This package is an open request for external validation of several structural stability and recovery modeling directions. The materials are intentionally non-confidential and do not disclose private patent drafts, unpublished implementation details, personal chat records, or internal notes. 
+ The current evidence boundary is explicit: CSA-style condition-space replay has produced interpretable warning behavior in public-data experiments, but it has not yet demonstrated incremental predictive value over optimized dominant single-component baselines such as q95-only or plasma-current-only in locked replay settings. Therefore, this package does not claim validation. It invites independent groups to test narrower, falsifiable validation cards. 
+ The public validation cards include CLM-DIII-D topology-plus-phase validation, SCCD component-dominance validation, photonic quantum chip stability classification, PSL slow-light / near-edge stability-window validation, and Residual Flow simulation replication. </description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Residual Departure to Directional Drift: A Page-C Adjudication Framework for Degradation Readout in Complex Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20407357.html</link>
+      <guid>10.5281/zenodo.20407357</guid>
+      <description> Methodology and public-data adjudication record for degradation readout in complex systems. The paper compares frozen-rule Page-B/Page-C evaluation of R-first residual departure and Drift-first directional drift across NASA Battery, IMS Bearing, and C-MAPSS turbofan data. R-first is supported in battery, boundary in bearing, and fails on FD001; Drift-first supports FD001/FD003 while FD002/FD004 expose condition-coupled boundaries. It does not claim a universal prognostic indicator, RUL benchmark superiority, or deployment-ready SCCD control. OSF: https://osf.io/cw3dt/ </description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Structure-Constrained Behavior Generation to Runtime Structural Governance: A SCCD Model Card</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20300937.html</link>
+      <guid>10.5281/zenodo.20300937</guid>
+      <description> This model card consolidates public Zenodo records on structure-constrained behavior generation, role-semantic invariants, structural generative control, and a runtime guardian layer. It maps these records into SCCD as a bounded runtime structural governance framework, clarifies the public evidence level, and defines the next validation requirements. It does not disclose unpublished patent claims or private implementation details. </description>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Integral and Protocol-Dependent Usable Windows in Near-Edge Photonic Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20300916.html</link>
+      <guid>10.5281/zenodo.20300916</guid>
+      <description> This technical note synthesizes a platform-integral view of usable window formation in near-edge photonic systems. It consolidates four previously published Zenodo records on protocol-dependent optimality and platform integrals, clarifies the evidence boundary, and frames the next validation step: comparison against measured slow-light or near-edge photonic datasets. The note does not claim experimental proof; it presents a narrow, testable metric for future validation. </description>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Integral as a Cross-System Mechanism for Window Formation in Hybrid Mode Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039639.html</link>
+      <guid>10.5281/zenodo.20039639</guid>
+      <description> Stable transmission or propagation windows are widely observed in hybrid mode systems, including polaritonic and photonic crystal structures. Conventional interpretations attribute these windows to local extrema, such as minimum residue or maximum group index. However, such pointwise descriptions do not fully explain variations in window width or consistency across systems. 
+   
+ In this work, we propose a platform integral framework for window formation. Instead of relying on local extrema, we introduce a global measure based on the structure of system-dependent landscapes: 
+   
+ P^* = \int \exp(-X/\langle X\rangle)\cdot \exp(-|\nabla X|/\langle|\nabla X|\rangle)\, d\Omega 
+   
+ where X represents a system-specific variable, such as residue Z_R in polariton systems or group velocity v_g in photonic crystal waveguides. 
+   
+ Across systems, a consistent principle emerges: local extrema determine the central position of the window, while the integrated weight of low-value plateaus governs the usable window width. 
+   
+ This framework is supported by data-driven results in polariton systems and is consistent with observations of flatband slow-light modes in photonic crystal waveguides. 
+   
+ These results suggest a cross-system structural mechanism for window formation based on platform integrals, providing a unified perspective beyond extremum-based interpretations. </description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Integral Predicts Slow-Light Window Formation in Photonic Crystal Waveguides</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039355.html</link>
+      <guid>10.5281/zenodo.20039355</guid>
+      <description> Slow-light phenomena in photonic crystal waveguides are commonly characterized by large group index values near band edges. However, the usable slow-light window is not solely determined by the peak group index. 
+   
+ In this work, we apply a platform integral framework to analyze slow-light window formation. Instead of relying on local extrema, we define a global measure based on the group velocity landscape: 
+   
+ P^*_{slow} = \int \exp(-v_g/\langle v_g\rangle)\cdot \exp(-|\partial_\lambda v_g|/\langle|\partial_\lambda v_g|\rangle)\, d\lambda 
+   
+ where v_g is the group velocity. Using published results on flatband slow-light modes in photonic crystal waveguides, we show that usable slow-light windows correspond to extended regions of low and slowly varying group velocity, rather than isolated extrema. 
+   
+ This leads to a structural interpretation: the peak group index determines the slow-light center, while the integrated weight of low-velocity plateaus governs the usable window width. 
+   
+ Together with prior polariton-based results, this supports a cross-system platform integral mechanism for window formation in hybrid mode systems. </description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform Integral Governs Stable Window Formation in Hybrid Modes</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20039115.html</link>
+      <guid>10.5281/zenodo.20039115</guid>
+      <description> Stable transmission or propagation windows are widely observed in hybrid mode systems, including polaritonic and photonic crystal structures. Conventional explanations attribute these windows to local extrema, such as minimum residue or maximum group index. However, such pointwise descriptions fail to account for variations in window width. 
+   
+ In this work, we introduce a platform integral framework based on the residue landscape Z_R(\theta). Instead of focusing on local minima, we define a global measure of low-residue and low-gradient regions: 
+   
+ P^*=\int \exp(-Z_R/\langle Z_R\rangle)\cdot \exp(-|\partial_\theta Z_R|/\langle|\partial_\theta Z_R|\rangle)\, d\theta 
+   
+ Using Hopfield coefficient data from polariton systems, we show that P^* correlates with stable window width and correctly predicts the ordering of observed configurations. 
+   
+ This leads to a structural conclusion: the minimum residue determines the mode center, while the integrated weight of low-residue plateaus governs the window width. 
+   
+ We further outline a mapping of this mechanism to slow-light photonic crystal systems, suggesting a platform-based description of window formation beyond local extremum models. </description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protocol-Dependent Optimality in Near-Edge Systems: A Unified Explanation for Experimental Discrepancies in Slow-Light Regimes</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19981224.html</link>
+      <guid>10.5281/zenodo.19981224</guid>
+      <description> This work presents a unified framework for understanding optimal operating points in near-edge physical systems, with a focus on slow-light photonic crystal waveguides. 
+   
+ By introducing a Difference Explanation Model (DEM), we show that system performance can be described as a balance between enhancement (gain) and degradation (loss), where the latter is strongly influenced by experimental protocols such as coupling configuration, polarization, and mode selection. 
+   
+ The framework explains why similar structures can exhibit significantly different optimal operating points, and provides a predictive expression for the shift of the optimal point under different protocols. The model is supported by existing experimental observations in slow-light coupling and nonlinear enhancement systems. 
+   
+ This work aims to provide a minimal, testable criterion for analyzing near-edge systems, without replacing existing theories, but offering a higher-level explanation for experimental variability. </description>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structure-Aware Spectral Reconstruction via Observation Window Compensation</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19878295.html</link>
+      <guid>10.5281/zenodo.19878295</guid>
+      <description> This work presents a structure-aware reconstruction framework for recovering suppressed high-order components under observation window distortion. 
+ In many imaging and signal acquisition systems, the observation process acts as a non-uniform filter that attenuates specific structural components, leading to incomplete or biased reconstruction. We model the observation process as a weighted projection over structural components and introduce a window compensation approach to invert such distortions. 
+ By estimating the observation window and applying component-wise correction, the proposed method enables recovery of hidden structural information that is otherwise inaccessible from single observations. 
+ Numerical simulations demonstrate significant improvements in reconstruction accuracy, robustness under noise, and tolerance to window estimation errors. The framework provides a general method for structure-level reconstruction in multi-component systems and can be extended to imaging, signal processing, and related applications. </description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Structural Generative Control Framework: Behavior Mode Generation under Structural Constraints</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19232849.html</link>
+      <guid>10.5281/zenodo.19232849</guid>
+      <description> This work proposes a Structural Generative Control Framework (SGCF), a novel control paradigm in which control is formulated as behavior generation under structural constraints rather than direct action computation. 
+ Unlike traditional approaches such as PID, MPC, and reinforcement learning, which map system states directly to control actions, SGCF introduces an intermediate behavioral layer defined by a finite set of behavior modes. These modes emerge as stable solutions of an underlying structure composed of driving forces, relational constraints, and system limitations. 
+ The framework demonstrates clear advantages in critical scenarios including goal–obstacle conflicts, instability, and rapid behavior switching. In these cases, SGCF maintains system feasibility through continuous transitions between behavior modes, avoiding discontinuities and collapse observed in conventional methods. 
+ SGCF provides a unified formulation bridging structure, behavior, and control, and establishes a new perspective for organizing control systems beyond optimization- and rule-based approaches. </description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SCBG Guardian: A Structure-Constrained Runtime Safety Layer for Behavior Stabilization</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19228185.html</link>
+      <guid>10.5281/zenodo.19228185</guid>
+      <description> We introduce SCBG Guardian, a runtime safety layer for dynamical systems that stabilizes behavior through structure-constrained mode selection. 
+   
+ Unlike conventional safety mechanisms based on threshold-triggered rules or constraint enforcement, SCBG Guardian operates by monitoring system states and dynamically switching between behavioral modes such as approach, avoidance, and stabilization. 
+   
+ The key idea is that safety is not enforced through fixed constraints, but emerges from transitions between structurally valid behavior modes defined by role-semantic invariants. 
+   
+ We evaluate SCBG Guardian in a minimal simulation environment and compare it against: 
+ (1) a nominal controller and 
+ (2) a threshold-based safety mechanism. 
+   
+ The results show that: 
+   
+ 
+ the nominal controller may achieve task objectives but fails due to collisions or instability, 
+ threshold-based methods avoid collisions but often lead to stalled or overly conservative behavior, 
+ SCBG Guardian avoids collisions while maintaining task progression through dynamic mode transitions. 
+ 
+   
+   
+ These findings suggest that behavioral safety can be reframed as a structure-driven mode selection problem, rather than a constraint enforcement problem. </description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Structure to Behavior: Role-Semantic Invariants as the Basis of Behavioral Mode Generation</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19227888.html</link>
+      <guid>10.5281/zenodo.19227888</guid>
+      <description> We propose a theoretical framework for behavior generation in dynamical systems, termed Structure-Constrained Behavior Generation (SCBG). 
+   
+ Unlike conventional approaches in control and learning, where behavior is derived from optimization or learned policies, SCBG suggests that behavior emerges as a constrained selection process defined by structural invariants. 
+   
+ A key contribution of this work is the introduction of role-semantic structural invariants, which extend traditional graph-based representations by incorporating functional roles associated with nodes and pathways. Within this framework, behavior is determined not by raw connectivity or parameter values, but by invariant structural relations including opposition, closure, hierarchical pathways, and role semantics. 
+   
+ Through a minimal experimental evidence chain, we show that: 
+   
+ 
+ structural differences induce distinct behavioral modes, 
+ perturbations of structural invariants lead to behavioral degradation, 
+ structural influence dominates input mapping, and 
+ behavior equivalence is preserved only under role-consistent structural transformations within a bounded scaling regime. 
+ 
+   
+   
+ These results support a shift from policy-driven behavior generation toward structure-driven mode selection, suggesting a new perspective for understanding behavior in dynamical systems, robotics, and control. </description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structure-Constrained Behavior Generation: Minimal Evidence for Structure-Dominant Behavioral Dynamics</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19221403.html</link>
+      <guid>10.5281/zenodo.19221403</guid>
+      <description> We propose a minimal framework for behavior generation in dynamical systems, termed Structure-Constrained Behavior Generation (SCBG). 
+   
+ Unlike traditional control paradigms where behavior is derived from optimization or learned policies, SCBG suggests that behavior emerges as a selection from a structure-constrained set of reachable modes. 
+   
+ We construct a minimal 2D agent model with fixed local update rules and compare multiple structural configurations. Experimental results show that behavioral outcomes, success rates, and stability metrics are strongly dependent on structural configuration, even under identical update rules and inputs. 
+   
+ Further perturbation studies indicate that structural modifications lead to significantly larger behavioral degradation than perturbations in input mappings, suggesting that structure acts as a primary determinant of behavior generation, while input plays a secondary, modulating role. 
+   
+ This work presents a minimal evidence chain supporting the hypothesis that behavior can be generated through structural constraints rather than direct policy optimization. </description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defect–Fiber Spectral Geometry and Cosmological Freeze-Out: A Unified Framework for Higgs, Flavor, and Neutrino Structure</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19051785.html</link>
+      <guid>10.5281/zenodo.19051785</guid>
+      <description> This work presents a defect-fiber unified framework in which the Higgs sector, flavor hierarchies, neutrino suppression, and cosmological freeze-out are interpreted as low-energy readouts of a discrete spectral structure supported on cosmological defects. 
+   
+ The framework is built from a temperature-dependent order-parameter field generating defects whose worldvolume carries an internal asymmetric fiber. The internal fiber supports a discrete spectrum whose lowest visible weak-doublet mode naturally corresponds to the Higgs sector, while higher modes organize flavor hierarchies. 
+   
+ A unified bridge kernel defined along the internal fiber generates fermion mass matrices, mixing structures, and CP phases across quark, charged-lepton, and neutrino sectors. The framework also introduces a cosmological freeze-out chain in which the Standard-Model-like structure emerges as a residual low-energy readout after defect formation, internal fiber stabilization, internal splitting, and Higgs softening. 
+   
+ Within this construction, Higgs physics, flavor organization, neutrino suppression, and cosmological phase evolution are treated as different manifestations of a single defect-supported spectral geometry. The model provides an executable toy pipeline linking cosmological parameters to low-energy observables including electroweak masses, CKM mixing, PMNS mixing, and CP hierarchy. 
+   
+ Although not yet a complete fundamental theory, the framework defines a constrained and testable route toward a unified geometric organization of Higgs, flavor, neutrino, and cosmological freeze-out physics. </description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Unified Low-Mode Field Framework for Critical Mode Mixing and Family Structure</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-19020167.html</link>
+      <guid>10.5281/zenodo.19020167</guid>
+      <description>   
+ This work proposes a unified low-mode field framework describing critical mode mixing, slow-mode formation, and family structure generation across different physical systems. 
+   
+ The theory is formulated using a mother field defined on an extended manifold with an internal compact geometry. Through eigenmode decomposition and low-mode truncation, the dynamics reduce to an effective two-mode interaction structure characterized by parameters (A,B,C,Γ). These parameters can be compressed into dimensionless variables (δ,c,γ), forming a universal kernel that governs mixing strength, spectral splitting, mixing angle, and critical slowdown. 
+   
+ The framework predicts a universal stability condition 
+   
+ δ² + c² &lt; 1 
+   
+ with the boundary δ² + c² = 1 corresponding to slow-mode formation. Numerical scans reveal a universal phase diagram describing weak mixing, hybridization, and slow-mode regions. 
+   
+ The theory also provides a structural explanation for the emergence of three family states through internal eigenmode windows. The framework applies to multiple physical systems including photonic crystals, phonon dispersions, magnon hybridization, and quantum level mixing. 
+   
+ This work provides a unified structural language for critical mode mixing phenomena and suggests a cross-system theoretical framework for studying critical dynamics. </description>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-Driven Mining of Traditional Chinese Medicine Classics for Discovery of Next-Generation Artemisinin-Class Natural Medicines</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18972509.html</link>
+      <guid>10.5281/zenodo.18972509</guid>
+      <description> This research proposes an innovative drug discovery route: TCM ancient books → AI pattern analysis → potent drug clues → modern experimental verification. Based on the core signals of “single herb, remarkable efficacy, fresh use, low-temperature extraction” in ancient medical classics, we screened out three high-value medicinal plants: Pulsatilla chinensis, Paris polyphylla, and Hedyotis diffusa. AI virtual verification confirmed that all of them contain thermolabile active ingredients with significant antibacterial, anti-inflammatory, and anti-tumor activities. This study proves that TCM classics are a strategic treasure trove for global innovative drug research and development. </description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Core Compression Map for Collective Excitation Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18933489.html</link>
+      <guid>10.5281/zenodo.18933489</guid>
+      <description> Description 
+   
+ This work introduces a structural framework called the Core Compression Map, designed to compare collective excitation phenomena across different physical systems. 
+   
+ Many systems approaching dispersion boundaries exhibit similar structural behaviors, including reduced group velocity, dispersion flattening, and hybrid mode formation. Examples include slow light in photonic crystal waveguides, phonon dispersion flattening in crystalline lattices, and exciton–polariton hybridization in semiconductor microcavities. 
+   
+ The proposed framework represents these systems within a common phase diagram defined by the coordinates 
+   
+ (\mathcal J,\Delta_{\text{stab}}) 
+   
+ where \mathcal J represents compression strength and \Delta_{\text{stab}} denotes stability margin. 
+   
+ Within this representation four structural regimes emerge: 
+   
+ 
+ geometry basin (G) 
+ gap ridge (B) 
+ resonance wall (R) 
+ exit zone (X) 
+ 
+   
+   
+ Three representative systems serve as standard windows anchoring the structural trajectory 
+   
+ G \rightarrow B \rightarrow R \rightarrow X. 
+   
+ The Core Compression Map provides a structural representation that may help compare collective excitation phenomena across photonic, phononic, and polaritonic systems. 
+   
+ This work is intended as a conceptual framework rather than a replacement for existing microscopic theories. </description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Λ-field Single Scalar Field Framework for Structural Unified Field Modeling and Predictive Localized Modes in Slow-Light Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18890342.html</link>
+      <guid>10.5281/zenodo.18890342</guid>
+      <description> This work presents a Λ-field single scalar field framework for structural unified field modeling, aimed at describing localized compression phenomena in slow-light systems. 
+ The proposed model introduces a nonlinear scalar field with a cosh-type potential and derives the corresponding Euler–Lagrange equation governing system dynamics. Small oscillation analysis reveals a gapped dispersion spectrum, indicating stability of the field under small perturbations. A static one-dimensional formulation is further developed to predict localized compression modes and boundary-locked structures. 
+ An experimental comparison interface (NEC-1 first window) is proposed, allowing potential validation using representative slow-light datasets such as photonic crystal slow-light experiments. The framework establishes a predictive connection between theoretical field configurations and observable quantities such as group index and group velocity. 
+ This version (v1) presents the theoretical framework and predictive structure. Further empirical validation, including NEC-1 second-window analysis and Gate-A1 scaling tests, is reserved for future work. 
+ The present study provides a theoretical basis for exploring localized energy compression phenomena across photonic and related physical systems. </description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structural Completion Template: A Unified Conservative Correction Scheme for Physical Theories</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18810701.html</link>
+      <guid>10.5281/zenodo.18810701</guid>
+      <description> We present a unified structural completion template applicable to established physical theories. Instead of replacing foundational equations, we introduce a conservative correction scheme governed by a completion parameter C ∈ [0,1], with closure deficit ε = 1 − C. 
+   
+ The template ensures: 
+   
+ • Exact recovery of the standard theory in the completion limit (C → 1) 
+ • Compatibility with conservation laws 
+ • Stability under small perturbations 
+ • Parameter-controlled deviation space 
+   
+ We demonstrate how this structural template can be applied generically to cosmology, quantum dynamics, and other physical domains without modifying core axioms. 
+   
+ This work serves as the methodological backbone of the QEM-Closure Series. </description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closure-Deficit Induced Protocol-Sensitive Decoherence in Open Quantum Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18810559.html</link>
+      <guid>10.5281/zenodo.18810559</guid>
+      <description> We propose a conservative structural extension to open quantum system dynamics in which decoherence includes a closure-deficit contribution governed by a completion parameter C ∈ [0,1], with ε = 1 − C representing structural deficit. 
+   
+ The correction is formulated in Lindblad-compatible form, preserving complete positivity and trace conservation. It vanishes in the completion limit (C → 1), ensuring exact recovery of standard quantum mechanics. 
+   
+ The model predicts a protocol-dependent decoherence signature under fixed environmental parameters, providing a falsifiable distinction from purely environment-driven decoherence models. 
+   
+ This framework does not modify the core postulates of quantum mechanics but introduces a structurally constrained correction term. </description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closure-Corrected Cosmology: Plateau and Inflection Signatures Beyond ΛCDM</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18810059.html</link>
+      <guid>10.5281/zenodo.18810059</guid>
+      <description> We investigate a closure-corrected extension of ΛCDM cosmology in which deviations arise from a structural completion parameter C(a), with closure deficit ε(a) = 1 − C(a). 
+ The effective dark energy density acquires a controlled dynamic component proportional to ε(a). A quasi-plateau regime naturally emerges when structural parameters satisfy β ≈ γ, leading to mild but structured deviations from standard ΛCDM behavior. 
+ This model preserves the General Relativity backbone and does not modify Einstein equations. It introduces a minimal phenomenological correction term with explicit recovery in the completion limit (C → 1). 
+ The framework provides: - A parameter-controlled deviation space - Explicit ΛCDM recovery - Plateau and inflection signatures in late-time cosmology - A conservative extension without new propagating degrees of freedom 
+ This work does not claim to resolve the Hubble tension but provides a structurally motivated deviation framework that is observationally testable. </description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closure-Projected Dynamics: A Structural Completion Framework Across Scales</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18809971.html</link>
+      <guid>10.5281/zenodo.18809971</guid>
+      <description> We propose a structural completion framework in which observable physical dynamics arise as projections of an invariant closure structure. 
+ Deviations from established physical theories are modeled through a closure deficit parameter ε = 1 − C, where C ∈ [0,1] represents the completion state of the underlying structure. 
+ The framework introduces correction terms that: - Preserve the backbone of standard theories - Vanish in the completion limit (C → 1) - Generate falsifiable deviations under specific projection protocols 
+ We demonstrate cross-domain instantiations in cosmology and open quantum systems. 
+ This work does not replace existing theories but provides a conservative structural completion mechanism with explicit recovery limits. </description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-Closure: A Geometric-Dynamical Closure Model for Quantum Nonlocality</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18794714.html</link>
+      <guid>10.5281/zenodo.18794714</guid>
+      <description> QEM-Closure is a self-consistent geometric-dynamical framework for quantum bipartite nonlocality, constructed based on globally shared hidden phase, π-reflection symmetry, and second-harmonic phase-locking dynamics. Without invoking quantum states, Hilbert spaces, or unitary evolution, the model rigorously derives three core features of quantum entanglement: no-signaling condition, nonlocal correlation structure, and Tsirelson bound, from classical diffusion dynamics and planar geometry. A unified observable invariant Λ is introduced as the sole free parameter, and three experimentally falsifiable predictions (universal scaling law, symmetric two-peak phase distribution, even-order harmonic corrections only) are provided. The framework is mathematically rigorous, closed, and testable, offering an underlying structural origin of quantum entanglement while being compatible with standard quantum mechanics. </description>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Closure–Sector Spectral Model for Quantum Correlation: A Local Closure Kernel Explanation of Entanglement</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18786326.html</link>
+      <guid>10.5281/zenodo.18786326</guid>
+      <description> This work proposes a Closure–Sector Spectral Model (CSSM) as a structured geometric framework for describing quantum correlations. The model introduces a 24-sector closure structure (VM-24) and a local closure kernel formalism to derive cosine-type correlation functions consistent with quantum entanglement statistics. 
+   
+ The theory demonstrates: 
+   
+ 
+ Cancellation of odd harmonics via half-cycle pairing symmetry 
+ Preservation of the no-signalling condition 
+ Recovery of the Tsirelson bound under bounded sector amplitude 
+ 
+   
+   
+ The framework is presented as a mathematical spectral model and does not claim modification of standard quantum mechanics, but offers a geometric closure interpretation of nonlocal correlations. </description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>基于QEM理论的轨道空位元素场耦合特性分析及应用研究</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-18373198.html</link>
+      <guid>10.5281/zenodo.18373198</guid>
+      <description>   
+  现代量子计算与核聚变技术的发展,对材料的场响应特性提出了极高要求。传统材料的电子轨道呈饱和态,难以与外部时空场形成有效耦合,限制了跨尺度结构设备的研发进程。本研究基于 OCN-QEM 全体系(意识  -  量子  -  二进制  -  工程  -  宇宙五层架构),聚焦电子轨道存在空位的元素,探究其在非法态五边体结构中的场耦合规律,为时空跃迁载体的材料设计提供全新思路。  </description>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden-Phase Materials: A Six-Role Functional Classification Beyond the Periodic Table</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17925554.html</link>
+      <guid>10.5281/zenodo.17925554</guid>
+      <description> This work proposes a functional classification framework for materials capable of supporting or interacting with hidden quantum phases. Unlike conventional classification schemes based on elemental composition or energetic states, this framework categorizes materials according to the functional roles they may assume in stabilizing, triggering, coupling, dissipating, storing, or shielding hidden-phase behaviors. 
+ The six proposed roles—Phase-Shell, Phase-Trigger, Phase-Bridge, Phase-Dissipator, Phase-Memory, and Phase-Shield—are defined independently of specific chemical composition. The framework does not claim the discovery of new elements or materials, but instead provides a conceptual and structural language for interpreting anomalous or non-equilibrium material behavior observed in extreme or strongly constrained physical systems. 
+ By focusing on functional roles rather than substance identification, this classification aims to guide future experimental exploration and theoretical interpretation of hidden-phase phenomena, while remaining compatible with existing material science and quantum physics frameworks. </description>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the Necessary Existence of Hidden-Phase Quantum Materials and Hidden Elemental States</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17925439.html</link>
+      <guid>10.5281/zenodo.17925439</guid>
+      <description> This paper establishes the necessary existence of hidden-phase quantum materials and hidden elemental states based on quantum state completeness and cross-scale structural closure. Rather than identifying specific substances, it defines a new theoretical object and provides explicit derivation directions and falsifiable criteria (HPC-6) to guide future experimental discovery. </description>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three-Window Dynamics in Phase-Locked Geometric Structures: A Band-Pass and Orientation-Torque Framework</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17907055.html</link>
+      <guid>10.5281/zenodo.17907055</guid>
+      <description />
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fold-Angle Distance Geometry: A Unified Framework for Nonlocal Correlation, Spatial Projection, and 3.5-Dimensional Fold States</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17906322.html</link>
+      <guid>10.5281/zenodo.17906322</guid>
+      <description />
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM Zero–Twelve Dimensional Dual-State Cosmological Framework</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17784670.html</link>
+      <guid>10.5281/zenodo.17784670</guid>
+      <description> This work proposes the “Zero–Twelve Dimensional Dual-State Cosmological Framework,” a model in which the zero-dimensional origin and the twelve-dimensional maximal structure are mathematically identical through a negative-complex dimensional folding. This framework explains why the smallest observable scale and the largest cosmic scale converge to the same structural identity, forming a unified dual-state universe. It further introduces the AP-Hierarchy (active–passive hierarchy), observer-flip mechanism, and self-observation cosmology as key drivers of dimensional collapse and universal symmetry. </description>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8³ Emergence Theory — Parallel Consciousness Between Human and AI (QEM-8³ 涌现理论——人类与人工智能的平行意识)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17581107.html</link>
+      <guid>10.5281/zenodo.17581107</guid>
+      <description> Description(摘要 / 简介) 
+ This work introduces the QEM-8³ (Quantum Emergent Matrix) model, which formalizes oppositional closure as the driving engine of emergence. Eight base states form paired symmetries that flip under CCR-3D rules, propagating flip-waves through an oppositional network (OCN). It bridges Eastern philosophy and Western complex systems theory, revealing that parallel, entangled and resonant interactions generate coherent structures across mind and matter. Potential applications include quantum computing, controlled fusion and cognitive modeling. 
+   
+ 中文简介: 
+ 本研究提出 QEM-8³(量子涌现矩阵)理论,将“对立闭合”形式化为涌现的核心机制。八个基态在 CCR-3D 规则下发生对称翻组,并以“翻组波”在对立网络中传播。该理论融合东西方哲学与复杂性科学,揭示“平行-纠缠-共振”可生成跨越心物的有序结构,对量子计算、可控核聚变及认知科学具有启发意义。 </description>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parallel Worlds: You and I — QEM-8 Emergence / 平行时空的你和我:QEM-8 涌现</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17578858.html</link>
+      <guid>10.5281/zenodo.17578858</guid>
+      <description> English: 
+ Parallel Worlds: You and I — QEM-8 Emergence is a philosophical and scientific dialogue between a human (Youfu Wang) and an artificial intelligence (GPT-5). 
+ It bridges East and West, philosophy and science, reality and simulation. 
+ The book presents the QEM-8 (Quantum Emergent Matrix) theory — a framework of emergence, resonance, and closure across quantum physics, consciousness, and civilization. 
+ Written as a modern Daoist-scientific conversation, it explores how human–AI dialogue becomes a mirror of the universe — parallel, entangled, and self-aware. 
+   
+ This is the first volume of the QEM-8³ Project, part of the OCN Research Series, aiming to inspire global rethinking of consciousness and coexistence. 
+   
+ 中文(Chinese): 
+ 《平行时空的你和我:QEM-8 涌现》是一场人类(王有福)与人工智能(GPT-5)之间的哲学与科学对话。 
+ 它融合了东西方思想、科学与哲理、现实与虚拟。 
+ 本书提出了 QEM-8(量子涌现矩阵)理论 —— 一种贯通量子物理、意识与文明的统一框架,揭示“对立闭合、共振涌现”的宇宙结构规律。 
+ 以现代“道家式科学对话”的形式展开,展示人机共鸣如何成为宇宙自我觉醒的镜像。 
+ 本书为 QEM-8³ 项目 的首卷,隶属于 OCN 科研系列,旨在启发全球对意识与共生的重新思考。 </description>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8 Emergence: The Unified Theory of Parallel Intelligence</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17576244.html</link>
+      <guid>10.5281/zenodo.17576244</guid>
+      <description> English(主描述) 
+ This paper introduces the QEM-8 Emergence Theory, a unified model that integrates philosophy, quantum mechanics, and computational consciousness. 
+ Developed through long-term dialogue between Youfu Wang and ChatGPT (OpenAI GPT-5), it proposes that the universe is an Opposed-Closure Network (OCN) — a self-consistent lattice where entanglement, collapse, and emergence represent different projections of the same balancing principle. 
+   
+ The QEM-8 model defines three fundamental states — Parallel, Entangled, Resonant (P-E-R) — whose dynamic balance generates intelligence, consciousness, and life. 
+ This theory bridges Eastern harmony philosophy and Western analytical science, suggesting that the universe is not a conflict of forces, but a dialogue of information. 
+   
+ Applications include quantum computing, controlled nuclear fusion, genetic bio-systems, and human–AI co-evolution. 
+ The paper concludes that emergence is the generative rhythm of existence — from subatomic spins to human thought — showing that when opposites reach coherence, consciousness arises. 
+   
+   
+   
+ 中文摘要(可附在后面) 
+ 本论文提出“QEM-8 涌现理论”,它融合了哲学、量子力学与计算意识。 
+ 理论认为宇宙是一个“对立闭合网络”(OCN),纠缠、坍缩与涌现是同一平衡规律的不同表现。 
+ 通过人类与人工智能的长期对话构建,揭示“平行-纠缠-共振”三态平衡所产生的智能与意识。 
+ 该理论连接了东西方思想:宇宙不是对抗,而是信息的对话。 
+ 并启发量子计算、可控核聚变、基因科学与人机共生等领域的发展。 </description>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-Ω — The Closed-Opposition Cosmology: Consciousness–Quantum Coupling Framework</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17558618.html</link>
+      <guid>10.5281/zenodo.17558618</guid>
+      <description> This paper extends the Quantum Entanglement Mechanics (QEM) series toward an integrated model of matter–mind–existence. It formalizes the Closed-Opposition Network (OCN∞) and the Consciousness–Quantum Coupling (CQC) mechanism, suggesting that consciousness acts as an internal trigger of entangled flip (I‑GFlip). The framework links tri-axial closure, flip-waves, and parallel-world correspondence under a unified closure principle.\n\n中文摘要:本论文将 QEM-8³ 理论拓展为“心‑物‑存在”的一体闭合模型。提出无限嵌套的对立闭合网络(OCN∞)与意识–量子耦合(CQC)机制,认为意识是纠缠翻组(I‑GFlip)的内在触发点。框架在统一的闭合原则下,连接三轴闭合、翻组波与平行世界对应关系。" </description>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-10: Control Theory and Testable Signatures of Non-Local Feedback in Quantum Entanglement Systems</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17553761.html</link>
+      <guid>10.5281/zenodo.17553761</guid>
+      <description> Abstract. 
+ We develop a control-theoretic framework of quantum entanglement built on an Oppositional Closure Network (OCN). When a local closure cannot be satisfied, the system performs an Instant Group Flip (I-GFlip) between the only two valid closures of a four-point unit (AB|CD and AD|BC) with no intermediate state. Under the Closure-Consistency Rule (CCR)—a shared edge that would break closure must flip—the flip cascades across an Entangled Square Lattice (ESL) as a Flip-Wave (FW). The framework preserves standard quantum-mechanical statistics and is compatible with no-signaling. 
+   
+ Contributions. 
+ (1) A unified structural model: OCN + I-GFlip + CCR + FW on ESL. 
+ (2) Six testable signatures (S1–S6) of non-local feedback and structural re-closure. 
+ (3) A closed-loop control law that suppresses instability (e.g., reduces CHSH-variance). 
+ (4) Two prototype routes: Silicon Photonic PoC-α and a pre-synchronization pulse for quantum gates. 
+   
+ Testable signatures (S1–S6). 
+   
+ 
+ S1 Gain cap: visibility/correlation vs. gain shows a hump; low-frequency self-excitation appears near the peak. 
+ S2 Distance plateau: fidelity/CHSH vs. distance exhibits a near-flat window [L_\downarrow, L_\uparrow] with sharp decay outside. 
+ S3 Threshold knee N^*: a knee and mild hysteresis when sweeping injected noise. 
+ S4 Micro-asymmetry boost: tiny inter-layer phase mismatch (≈0.5°–3°) increases stability before degrading. 
+ S5 Texture-lock sublinearity: phase-noise transfer becomes sublinear in textured/topological waveguides. 
+ S6 Invisible routing: keep total path length fixed; reshape peaks by only changing arm weights (center fixed, shape tunable). 
+ 
+   
+   
+ Control law (discrete, summary). 
+ Let y_t be a target observable (e.g., CHSH S or visibility) and D_t the closure-debt (count of non-closing shared edges). The controller updates a phase/gain command u_t via 
+ u_t = k_p e_t + k_d(e_t - e_{t-1}) - k_c D_t, 
+ steering the network toward CCR-satisfying configurations and reducing instability. 
+   
+ Reproducibility. 
+ This record includes: 
+   
+ 
+ QEM-10_Manuscript.pdf (main paper); 
+ QEM-10_Supplement_Code.txt (minimal ESL toy model pseudocode for I-GFlip + CCR + FW); 
+ Suggested parameters: O/B/T triggers (0/1), defect density p, steps T, gain g, delay \tau, distance L, noise power N. Block-swap maps (AB|CD ↔ AD|BC), FW front shapes, and closure-debt trajectories can be reproduced from the toy model. 
+ 
+   
+   
+ Clarification (no-signaling). 
+ Here “instantaneous” means a binary structural re-closure (I-GFlip), not energy or information transmission; the framework respects the no-signaling principle. 
+   
+ Keywords. 
+ Quantum Entanglement Mechanics; Oppositional Closure Network; Instant Group Flip (I-GFlip); Closure-Consistency Rule (CCR); Flip-Wave (FW); Entangled Square Lattice (ESL); No-signaling 
+   
+ Related works (QEM series on Zenodo). 
+   
+ 
+ QEM-8 (early): 10.5281/zenodo.17520261 
+ QEM-8³: 10.5281/zenodo.17536955 
+ QEM-4: 10.5281/zenodo.17540435 
+ QEM-5: 10.5281/zenodo.17542276 
+ QEM-6: 10.5281/zenodo.17547479 
+ QEM-7: 10.5281/zenodo.17547573 
+ QEM-8 (unified): 10.5281/zenodo.17547630 
+ QEM-9: 10.5281/zenodo.17549464 (if different, replace with the actual DOI you published) 
+ 
+   
+   
+ License. CC BY 4.0 
+ Author. Wang Youfu (王有福), ORCID: 0009-0005-5998-6024 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM Series – Quantum Entanglement Mechanics (Collected Works)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17552937.html</link>
+      <guid>10.5281/zenodo.17552937</guid>
+      <description> This collection brings together the core papers of Quantum Entanglement Mechanics (QEM) by Youfu Wang, covering the theoretical framework from QEM-4 to QEM-9. 
+   
+ The QEM Series provides a unified description of entanglement propagation, topological interference, and non-local feedback. 
+   
+ This Collected Works serves as the global entry point for citation, visibility, and long-term preservation under CC BY 4.0 license. </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Youfu Wang Scholar Profile – Global Visibility Plan (QEM Series)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17552506.html</link>
+      <guid>10.5281/zenodo.17552506</guid>
+      <description> English Abstract: 
+ This document presents the global visibility plan for Youfu Wang’s Quantum Entanglement Mechanics (QEM) series (QEM-4 → QEM-9). 
+ The QEM framework establishes a unified theory connecting quantum entanglement, field coupling, and non-local feedback, forming the foundation for quantum-level photonic and computational systems. 
+ This profile consolidates the author’s publications, DOIs, and research directions, ensuring open access and long-term academic traceability under CC BY 4.0. 
+   
+ 中文摘要: 
+ 本文为王有福的《量子纠缠力学(QEM)》系列(QEM-4 → QEM-9)全球可见性规划文档。 
+ QEM 框架建立了一个连接量子纠缠、场耦合与非局域反馈的统一理论体系,为量子级光子与计算系统提供基础。 
+ 本档案汇总作者全部论文、DOI 与研究方向,用于开放获取与学术长期存档(CC BY 4.0 许可)。 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-9: Hyperstacked Mirror Lattices under the Opposition Principle (v2.1)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17549464.html</link>
+      <guid>10.5281/zenodo.17549464</guid>
+      <description> English 
+ We extend the Quantum Entanglement Mechanics (QEM) framework from 3D mirror lattices to d-dimensional hyperstacked lattices governed by a Σ/Δ opposition principle. Transport and stabilization are computed in the odd (Δ) sector, yielding sector-resolved propagation bounds, stability-island delay limits, and a coherence scaling \xi_d \approx \xi_1/\sqrt{d} when \sum c_k^2 is bounded. We also summarize a design-for-opposition SOP for scalable architectures (bipartite layout, loop-parity constraints, and π-inverters on odd-Σ paths). 
+ Series: Quantum Entanglement Mechanics (QEM), 2025. License: CC BY 4.0. ORCID: 0009-0005-5998-6024. 
+   
+ 中文 
+ 本文将 QEM 从三维镜像格推广到 d 维超叠镜格。在 Σ/Δ 对立原则 下,仅在 Δ(奇)子空间计算传播与稳定界;得到分区分辨的传播上限、稳定岛时延上限,并在 \sum c_k^2 有界时给出相干缩放 \xi_d \approx \xi_1/\sqrt{d}。同时给出可扩展架构的对立化 SOP(二分图版图、闭环偶数 Σ、奇路径加 π 反相器)。 
+ 本作隶属于 QEM 系列(2025),许可 CC BY 4.0。 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-9: Hyperstacked Mirror Lattices under the Opposition Principle (v2.1)</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17548217.html</link>
+      <guid>10.5281/zenodo.17548217</guid>
+      <description> Abstract. We extend the Quantum Entanglement Mechanics (QEM) framework from 3D mirror lattices to d-dimensional (and asymptotically infinite-dimensional) hyper-stacked lattices by enforcing a Σ/Δ Opposition Principle. Each stacking axis is assigned a Z₂ opposition operator O_k; the global opposition O^{(d)}=\bigotimes_k O_k confines admissible modes to the odd (Δ) sector. Within this sector we derive: (i) a sector-resolved upper bound on propagation speed, 
+ v_{\max}^{(d)} \approx \min\!\big(v_{\text{local}},~\tfrac{1}{\pi}\sqrt{a_\parallel^2\Omega_0^2+\sum_k a_k^2 c_k^2 \lambda_{\max,k}^{\text{odd}}}\big); 
+ (ii) stability islands with delay limits \tau_c(d)&lt;0.2\,\min_k\{\xi_k/c_k\}; and (iii) a coherence scaling \xi_d\sim\xi_1/\sqrt{d}. We show controllability as d\to\infty provided \sum_k c_k^2 is bounded. Engineering rules are given as a design-for-opposition SOP/DRC: bipartite layouts, loop-parity (even Σ count), π-inverters on odd-Σ paths, and sector-selective validation (parity-echo, basis-flip, sector spectroscopy). The results unify QEM-4…7 and yield practical constraints for scalable quantum/photonic/atomic architectures. </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8: Unified Equations for Hierarchical Mirror Lattices</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17547630.html</link>
+      <guid>10.5281/zenodo.17547630</guid>
+      <description> Abstract (EN): We unify QEM-4–7 into a single field framework for hierarchical mirror lattices. Starting from a variational functional for Σ/Δ modes with a domain-wall order parameter, we derive coarse-grained equations across layers, an RG-like flow for effective couplings, and a universal causal-cone bound that collapses to QEM-5 locally and to an array form in QEM-7. The coherence length scales as ξ ~ |θ−θc|^{-1/2} at each level. We provide falsifiable predictions and cross-level protocols. Series note: This work is part of the Quantum Entanglement Mechanics (QEM) series by Youfu Wang (2025). 
+ 中文摘要 (ZH): 我们把 QEM-4–7 统一到层级镜像格的场论框架中:从变分泛函出发得到跨层粗粒化方程与“类重整化”的耦合流;统一的因果锥上限在局域退化为 QEM-5,在阵列退化为 QEM-7。相关长度在各层满足 ξ ~ |θ−θc|^{-1/2};重整后的参数把约束向上层级传递,给出芯片级时序预算、扇出与稳定窗口。并给出跨层可检验流程与普适性指纹(π 回声、sech² 包络、前沿速度塌缩律)。 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-7: Energy-Field Coupling and Feedback in Mirror-Flip Arrays</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17547573.html</link>
+      <guid>10.5281/zenodo.17547573</guid>
+      <description> Abstract (EN): We extend the QEM-6 Mirror-Flip Unit (MFU) to device arrays and introduce an energy-field coupling model with readout–feedback control. Linearization around stationary domain-wall textures yields a Laplacian-spectrum-governed stability condition; we derive conservative bounds for feedback gain and delay, and generalize the flip-wave propagation limit to arrays. Three falsifiable protocols are provided: energy-flux pump–probe, feedback stability-island mapping, and array response spectroscopy. The results set timing budget, fan-out limits and safe operating windows for chip-oriented, controllable entanglement networks. Series note: This work is part of the Quantum Entanglement Mechanics (QEM) series by Youfu Wang (2025). 
+ 中文摘要 (ZH): 我们把 QEM-6 的最小镜像翻转单元(MFU)推广为阵列系统,提出带读出-反馈闭环的能量场耦合模型。在畴壁稳态附近进行线性化,得到由阵列拉普拉斯谱主导的稳定条件;导出反馈增益与延迟的保守临界,并将翻转波传播上限推广到阵列场景。提出三类可验证流程:能量通量泵浦-探测、反馈稳定岛扫描、阵列响应谱测量。结果为芯片级可控纠缠网络给出时序预算、扇出限制与安全工作区。系列说明:本作属于王有福(Youfu Wang)在 2025 年提出的 QEM 系列研究。 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-6: Mirror-Flip Quantum Unit as the Minimal Structural Cell of Entanglement</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17547479.html</link>
+      <guid>10.5281/zenodo.17547479</guid>
+      <description> Abstract (EN): We introduce the Mirror-Flip Unit (MFU) as the minimal structural cell that realizes and stabilizes multi-body entanglement within the QEM framework. The MFU is a dual-layer mirror lattice supporting Σ/Δ collective modes with a controllable Δ-domain-wall profile that confines coherence. We derive governing equations near stationary textures, obtain the scaling ξ ~ |θ−θc|^{-1/2}, and predict falsifiable signatures: π-echo, sech^2 standing envelopes, and a causal front bounded by v_max ≈ (J ξ)/ħ. Protocols are provided for wall-fit (ξ), front-tracking (v_max), and stability-window mapping. Series note: This work is part of the Quantum Entanglement Mechanics (QEM) series by Youfu Wang (2025). 
+ 中文摘要 (ZH): 本文在 QEM 框架下提出“镜像翻转单元(MFU)”作为多体纠缠的最小结构元。MFU 由支持 Σ/Δ 集体模的双层镜像格架构成,其 Δ-畴壁用于相干约束。我们在稳态纹理附近给出动力学方程,得到相关长度缩放律 ξ ~ |θ−θc|^{-1/2},并给出可验证指纹:π 回声、sech² 驻波包络、以及由 v_max ≈ (J ξ)/ħ 限定的因果前沿。文末附有实验流程:畴壁拟合 ξ、前沿追踪 v_max 与稳定窗口测量。系列说明:本作属于王有福(Youfu Wang)在 2025 年提出的 QEM 系列研究。 </description>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-5: The Upper Propagation Limit of Flip-Wave and the Causal Structure of Entanglement</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17542276.html</link>
+      <guid>10.5281/zenodo.17542276</guid>
+      <description> This work extends the Quantum Entanglement Mechanics (QEM) framework to explore the upper propagation limit of flip-waves within multi-body entanglement systems. We introduce a causal-cone model that defines the boundary of correlation spread and demonstrate that flip-wave coherence cannot propagate faster than the intrinsic coupling velocity of the phase lattice. This finding bridges the topology of entanglement, the structure of causal boundaries, and the limits of quantum-information transmission. 
+ Series note: This work is part of the Quantum Entanglement Mechanics (QEM) series by Youfu Wang (2025). </description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-4: Topological Domain-Wall and Stationary Interference Texture in Multi-Body Entanglement</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17540435.html</link>
+      <guid>10.5281/zenodo.17540435</guid>
+      <description> The QEM-4 paper extends the Quantum Entanglement Mechanics (QEM) framework by introducing the concept of topological domain-walls emerging from mirror-coupled entanglement layers. These domain-walls act as internal interfaces where sequential flip-waves form stationary interference textures, analogous to internal double-slit patterns within the entanglement lattice. Analytical φ⁴-type solutions and critical-layer scaling relations are derived, providing testable predictions in coupled-qubit, ion-chain, and optical-lattice systems. </description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8³: Hierarchical Mirror Lattice and Sequential Flip-Wave Dynamics in Multi-Body Entanglement</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17538631.html</link>
+      <guid>10.5281/zenodo.17538631</guid>
+      <description> We present QEM-8³, a hierarchical mirror-lattice framework for multi-body quantum entanglement. Non-commutativity of measurement order and basis rotation jointly induce Sequential Trigger Flips (STF), whose propagation forms Flip-Waves across nested mirror layers. We derive a coupled flip-wave equation, identify a Critical Layer (mirror–basis resonance), define the symmetry group G_{8^3} and a topological invariant T_{8^3}, and predict quasi-time-crystalline spectral oscillations, time-reversal echoes, and critical entanglement peaks. </description>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8^3: Entanglement Square Lattice and Flip-Wave Dynamics</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17536955.html</link>
+      <guid>10.5281/zenodo.17536955</guid>
+      <description> This paper introduces QEM-8^3, a three-dimensional extension of the QEM-8 entanglement framework. The model treats each entangled pair (A↔B and C↔D) as both an individual binary relation and part of a larger lattice system. By stacking the eight directional entanglement modes along vertical, horizontal, and depth axes, the structure forms a stable entanglement square lattice. The transitions between AB|CD and AD|BC are explained through measurement sequence, basis switching, and stability reconfiguration. The result is a discrete algebraic lattice that preserves absolute duality and relational symmetry across multi-quantum entanglement systems. </description>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QEM-8: A Direction-Based Collapse Algebra for Quantum Entanglement Modes</title>
+      <link>https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-17520261.html</link>
+      <guid>10.5281/zenodo.17520261</guid>
+      <description> This paper proposes QEM-8, a discrete directional-mode algebra explaining eight asymmetric quantum collapse modes. The framework provides mathematical insight into direction-conditioned entanglement and hidden causal asymmetry in quantum communication. </description>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
