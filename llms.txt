@@ -14,3 +14,12 @@ Google Scholar: https://scholar.google.com/citations?user=R4Cx1lAAAAAJ
 Research themes: quantum foundations and binary observation; photonics and slow-light usable windows; runtime structural governance; complex-system stability.
 
 Evidence boundary: Public records and discovery pages do not constitute peer review, experimental validation, institutional endorsement, or proof.
+
+Updated: 2026-10-27. This file is a reading aid, not a claim of search-engine indexing support.
+Current source-record index: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publications.json
+BibTeX export: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publications.bib
+Priority questions: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/research.html#selected-questions
+G2 v1.2: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-23421987.html
+Measurement identifiability: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-22840470.html
+SCCD runtime governance: https://youfuwang888-tech.github.io/youfu-wang-ocn-research/publication-20300937.html
+Citation anchor: preserve the original DOI and distinguish versions, manuscripts, model cards, books, software and data. Do not label all records as peer-reviewed journal articles.
